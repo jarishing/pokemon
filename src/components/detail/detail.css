@@ -1,0 +1,8 @@
+.detail{
+    width: 918px;
+}
+
+.detail-row{
+    display: flex;
+    margin-bottom: 20px;
+}

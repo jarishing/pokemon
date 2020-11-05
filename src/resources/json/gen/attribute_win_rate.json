@@ -1,0 +1,104 @@
+[
+    {
+        "#": 0,
+        "Type": "Bug",
+        "AverageWinRate": 2.02,
+        "AverageWinRank": 7
+    },
+    {
+        "#": 1,
+        "Type": "Dark",
+        "AverageWinRate": 7.65,
+        "AverageWinRank": 3
+    },
+    {
+        "#": 3,
+        "Type": "Electric",
+        "AverageWinRate": 9.2,
+        "AverageWinRank": 2
+    },
+    {
+        "#": 4,
+        "Type": "Fairy",
+        "AverageWinRate": -9.2,
+        "AverageWinRank": 15
+    },
+    {
+        "#": 5,
+        "Type": "Fighting",
+        "AverageWinRate": 3.25,
+        "AverageWinRank": 6
+    },
+    {
+        "#": 6,
+        "Type": "Fire",
+        "AverageWinRate": 3.65,
+        "AverageWinRank": 5
+    },
+    {
+        "#": 7,
+        "Type": "Flying",
+        "AverageWinRate": 14.7,
+        "AverageWinRank": 1
+    },
+    {
+        "#": 8,
+        "Type": "Ghost",
+        "AverageWinRate": -12.95,
+        "AverageWinRank": 16
+    },
+    {
+        "#": 9,
+        "Type": "Grass",
+        "AverageWinRate": -3.43,
+        "AverageWinRank": 12
+    },
+    {
+        "#": 10,
+        "Type": "Ground",
+        "AverageWinRate": -4.95,
+        "AverageWinRank": 14
+    },
+    {
+        "#": 11,
+        "Type": "Ice",
+        "AverageWinRate": -4.57,
+        "AverageWinRank": 13
+    },
+    {
+        "#": 12,
+        "Type": "Normal",
+        "AverageWinRate": 7.06,
+        "AverageWinRank": 4
+    },
+    {
+        "#": 13,
+        "Type": "Poison",
+        "AverageWinRate": 0.69,
+        "AverageWinRank": 8
+    },
+    {
+        "#": 14,
+        "Type": "Psychic",
+        "AverageWinRate": -1.18,
+        "AverageWinRank": 10
+    },
+    {
+        "#": 15,
+        "Type": "Rock",
+        "AverageWinRate": -13.59,
+        "AverageWinRank": 18
+    },
+    {
+        "#": 16,
+        "Type": "Steel",
+        "AverageWinRate": -13.29,
+        "AverageWinRank": 17
+    },
+    {
+        "#": 17,
+        "Type": "Water",
+        "AverageWinRate": -1.86,
+        "AverageWinRank": 11
+    }
+]

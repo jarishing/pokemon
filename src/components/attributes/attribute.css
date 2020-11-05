@@ -1,0 +1,9 @@
+.attribute-box{
+    width: 100px;
+    border-radius: 60px;
+    margin: 5px 10px;
+    padding: 2px;
+    font-weight: 700;
+    color: #fff;
+    font-size: 15px;
+}
