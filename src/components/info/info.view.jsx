@@ -15,7 +15,7 @@ export default props => {
                 props.pkmon?
                 <div>
                     <div className="info-image">
-                        <img src={`/images/${props.pkmon["#"]}.png`}></img>
+                        {/* <img src={`/images/${props.pkmon["#"]}.png`}></img> */}
                     </div>
                     <div className={props.p2? "info-status-p2":"info-status"}>
                         <div>

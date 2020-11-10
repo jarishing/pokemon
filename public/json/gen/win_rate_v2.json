@@ -1,0 +1,7220 @@
+[
+  {
+    "#": 1,
+    "WinRate": 20.97,
+    "Total": 318,
+    "WinRank": 635,
+    "TotalRank": 629,
+    "WinDiff": -7.6,
+    "DiffRank": 512
+  },
+  {
+    "#": 2,
+    "WinRate": 37.08,
+    "Total": 405,
+    "WinRank": 475,
+    "TotalRank": 469,
+    "WinDiff": -8.3,
+    "DiffRank": 519
+  },
+  {
+    "#": 3,
+    "WinRate": 60.8,
+    "Total": 525,
+    "WinRank": 269,
+    "TotalRank": 162,
+    "WinDiff": 1,
+    "DiffRank": 392
+  },
+  {
+    "#": 4,
+    "WinRate": 62.17,
+    "Total": 625,
+    "WinRank": 248,
+    "TotalRank": 42,
+    "WinDiff": -12.05,
+    "DiffRank": 573
+  },
+  {
+    "#": 5,
+    "WinRate": 38.2,
+    "Total": 309,
+    "WinRank": 468,
+    "TotalRank": 654,
+    "WinDiff": 10.69,
+    "DiffRank": 252
+  },
+  {
+    "#": 6,
+    "WinRate": 56.93,
+    "Total": 405,
+    "WinRank": 304,
+    "TotalRank": 469,
+    "WinDiff": 11.55,
+    "DiffRank": 238
+  },
+  {
+    "#": 7,
+    "WinRate": 80.65,
+    "Total": 534,
+    "WinRank": 110,
+    "TotalRank": 144,
+    "WinDiff": 19.09,
+    "DiffRank": 158
+  },
+  {
+    "#": 8,
+    "WinRate": 82.4,
+    "Total": 634,
+    "WinRank": 92,
+    "TotalRank": 36,
+    "WinDiff": 7.73,
+    "DiffRank": 309
+  },
+  {
+    "#": 9,
+    "WinRate": 82.02,
+    "Total": 634,
+    "WinRank": 97,
+    "TotalRank": 36,
+    "WinDiff": 7.35,
+    "DiffRank": 312
+  },
+  {
+    "#": 10,
+    "WinRate": 19.23,
+    "Total": 314,
+    "WinRank": 662,
+    "TotalRank": 638,
+    "WinDiff": -8.83,
+    "DiffRank": 526
+  },
+  {
+    "#": 11,
+    "WinRate": 37.08,
+    "Total": 405,
+    "WinRank": 475,
+    "TotalRank": 469,
+    "WinDiff": -8.3,
+    "DiffRank": 519
+  },
+  {
+    "#": 12,
+    "WinRate": 60.67,
+    "Total": 530,
+    "WinRank": 270,
+    "TotalRank": 149,
+    "WinDiff": -0.1,
+    "DiffRank": 409
+  },
+  {
+    "#": 13,
+    "WinRate": 61.3,
+    "Total": 630,
+    "WinRank": 259,
+    "TotalRank": 38,
+    "WinDiff": -13.18,
+    "DiffRank": 596
+  },
+  {
+    "#": 14,
+    "WinRate": 15.73,
+    "Total": 195,
+    "WinRank": 694,
+    "TotalRank": 797,
+    "WinDiff": 8.76,
+    "DiffRank": 289
+  },
+  {
+    "#": 15,
+    "WinRate": 4.24,
+    "Total": 205,
+    "WinRank": 784,
+    "TotalRank": 788,
+    "WinDiff": -3.86,
+    "DiffRank": 448
+  },
+  {
+    "#": 16,
+    "WinRate": 49.06,
+    "Total": 395,
+    "WinRank": 369,
+    "TotalRank": 501,
+    "WinDiff": 5.23,
+    "DiffRank": 337
+  },
+  {
+    "#": 17,
+    "WinRate": 21.1,
+    "Total": 195,
+    "WinRank": 631,
+    "TotalRank": 797,
+    "WinDiff": 14.13,
+    "DiffRank": 210
+  },
+  {
+    "#": 18,
+    "WinRate": 10.11,
+    "Total": 205,
+    "WinRank": 745,
+    "TotalRank": 788,
+    "WinDiff": 2.01,
+    "DiffRank": 378
+  },
+  {
+    "#": 19,
+    "WinRate": 57.8,
+    "Total": 395,
+    "WinRank": 296,
+    "TotalRank": 501,
+    "WinDiff": 13.97,
+    "DiffRank": 211
+  },
+  {
+    "#": 20,
+    "WinRate": 98.13,
+    "Total": 495,
+    "WinRank": 3,
+    "TotalRank": 256,
+    "WinDiff": 43.43,
+    "DiffRank": 4
+  },
+  {
+    "#": 21,
+    "WinRate": 33.58,
+    "Total": 251,
+    "WinRank": 503,
+    "TotalRank": 759,
+    "WinDiff": 9.97,
+    "DiffRank": 273
+  },
+  {
+    "#": 22,
+    "WinRate": 52.68,
+    "Total": 349,
+    "WinRank": 337,
+    "TotalRank": 563,
+    "WinDiff": 18.39,
+    "DiffRank": 172
+  },
+  {
+    "#": 23,
+    "WinRate": 80.02,
+    "Total": 479,
+    "WinRank": 114,
+    "TotalRank": 335,
+    "WinDiff": 27.35,
+    "DiffRank": 70
+  },
+  {
+    "#": 24,
+    "WinRate": 90.89,
+    "Total": 579,
+    "WinRank": 39,
+    "TotalRank": 114,
+    "WinDiff": 21.07,
+    "DiffRank": 137
+  },
+  {
+    "#": 25,
+    "WinRate": 49.44,
+    "Total": 253,
+    "WinRank": 366,
+    "TotalRank": 758,
+    "WinDiff": 25.52,
+    "DiffRank": 85
+  },
+  {
+    "#": 26,
+    "WinRate": 75.41,
+    "Total": 413,
+    "WinRank": 159,
+    "TotalRank": 454,
+    "WinDiff": 28.95,
+    "DiffRank": 58
+  },
+  {
+    "#": 27,
+    "WinRate": 49.94,
+    "Total": 262,
+    "WinRank": 361,
+    "TotalRank": 752,
+    "WinDiff": 25,
+    "DiffRank": 91
+  },
+  {
+    "#": 28,
+    "WinRate": 79.65,
+    "Total": 442,
+    "WinRank": 118,
+    "TotalRank": 409,
+    "WinDiff": 30.31,
+    "DiffRank": 45
+  },
+  {
+    "#": 29,
+    "WinRate": 29.46,
+    "Total": 288,
+    "WinRank": 549,
+    "TotalRank": 720,
+    "WinDiff": 3.33,
+    "DiffRank": 362
+  },
+  {
+    "#": 30,
+    "WinRate": 59.68,
+    "Total": 438,
+    "WinRank": 279,
+    "TotalRank": 419,
+    "WinDiff": 10.68,
+    "DiffRank": 253
+  },
+  {
+    "#": 31,
+    "WinRate": 62.8,
+    "Total": 320,
+    "WinRank": 242,
+    "TotalRank": 620,
+    "WinDiff": 33.95,
+    "DiffRank": 30
+  },
+  {
+    "#": 32,
+    "WinRate": 86.52,
+    "Total": 485,
+    "WinRank": 71,
+    "TotalRank": 299,
+    "WinDiff": 33.14,
+    "DiffRank": 34
+  },
+  {
+    "#": 33,
+    "WinRate": 20.97,
+    "Total": 300,
+    "WinRank": 635,
+    "TotalRank": 682,
+    "WinDiff": -5.78,
+    "DiffRank": 477
+  },
+  {
+    "#": 34,
+    "WinRate": 48.56,
+    "Total": 450,
+    "WinRank": 375,
+    "TotalRank": 399,
+    "WinDiff": -1.43,
+    "DiffRank": 430
+  },
+  {
+    "#": 35,
+    "WinRate": 15.11,
+    "Total": 275,
+    "WinRank": 701,
+    "TotalRank": 737,
+    "WinDiff": -10.57,
+    "DiffRank": 552
+  },
+  {
+    "#": 36,
+    "WinRate": 31.84,
+    "Total": 365,
+    "WinRank": 529,
+    "TotalRank": 534,
+    "WinDiff": -6.01,
+    "DiffRank": 483
+  },
+  {
+    "#": 37,
+    "WinRate": 57.18,
+    "Total": 505,
+    "WinRank": 303,
+    "TotalRank": 218,
+    "WinDiff": 0.95,
+    "DiffRank": 394
+  },
+  {
+    "#": 38,
+    "WinRate": 23.85,
+    "Total": 273,
+    "WinRank": 609,
+    "TotalRank": 742,
+    "WinDiff": -1.75,
+    "DiffRank": 436
+  },
+  {
+    "#": 39,
+    "WinRate": 42.82,
+    "Total": 365,
+    "WinRank": 419,
+    "TotalRank": 534,
+    "WinDiff": 4.97,
+    "DiffRank": 340
+  },
+  {
+    "#": 40,
+    "WinRate": 65.67,
+    "Total": 505,
+    "WinRank": 223,
+    "TotalRank": 218,
+    "WinDiff": 9.44,
+    "DiffRank": 284
+  },
+  {
+    "#": 41,
+    "WinRate": 11.99,
+    "Total": 323,
+    "WinRank": 732,
+    "TotalRank": 619,
+    "WinDiff": -17.31,
+    "DiffRank": 631
+  },
+  {
+    "#": 42,
+    "WinRate": 38.95,
+    "Total": 483,
+    "WinRank": 452,
+    "TotalRank": 313,
+    "WinDiff": -14.19,
+    "DiffRank": 609
+  },
+  {
+    "#": 43,
+    "WinRate": 33.58,
+    "Total": 299,
+    "WinRank": 503,
+    "TotalRank": 701,
+    "WinDiff": 6.9,
+    "DiffRank": 319
+  },
+  {
+    "#": 44,
+    "WinRate": 78.15,
+    "Total": 505,
+    "WinRank": 134,
+    "TotalRank": 218,
+    "WinDiff": 21.92,
+    "DiffRank": 128
+  },
+  {
+    "#": 45,
+    "WinRate": 5.49,
+    "Total": 270,
+    "WinRank": 777,
+    "TotalRank": 743,
+    "WinDiff": -19.97,
+    "DiffRank": 660
+  },
+  {
+    "#": 46,
+    "WinRate": 21.47,
+    "Total": 435,
+    "WinRank": 625,
+    "TotalRank": 420,
+    "WinDiff": -27.27,
+    "DiffRank": 732
+  },
+  {
+    "#": 47,
+    "WinRate": 32.83,
+    "Total": 245,
+    "WinRank": 516,
+    "TotalRank": 767,
+    "WinDiff": 10.37,
+    "DiffRank": 265
+  },
+  {
+    "#": 48,
+    "WinRate": 72.66,
+    "Total": 455,
+    "WinRank": 177,
+    "TotalRank": 387,
+    "WinDiff": 22.26,
+    "DiffRank": 123
+  },
+  {
+    "#": 49,
+    "WinRate": 6.74,
+    "Total": 320,
+    "WinRank": 768,
+    "TotalRank": 620,
+    "WinDiff": -22.11,
+    "DiffRank": 693
+  },
+  {
+    "#": 50,
+    "WinRate": 16.23,
+    "Total": 395,
+    "WinRank": 684,
+    "TotalRank": 501,
+    "WinDiff": -27.6,
+    "DiffRank": 734
+  },
+  {
+    "#": 51,
+    "WinRate": 27.59,
+    "Total": 490,
+    "WinRank": 566,
+    "TotalRank": 277,
+    "WinDiff": -26.43,
+    "DiffRank": 728
+  },
+  {
+    "#": 52,
+    "WinRate": 7.12,
+    "Total": 285,
+    "WinRank": 765,
+    "TotalRank": 724,
+    "WinDiff": -18.9,
+    "DiffRank": 644
+  },
+  {
+    "#": 53,
+    "WinRate": 13.23,
+    "Total": 405,
+    "WinRank": 718,
+    "TotalRank": 469,
+    "WinDiff": -32.15,
+    "DiffRank": 756
+  },
+  {
+    "#": 54,
+    "WinRate": 20.47,
+    "Total": 305,
+    "WinRank": 650,
+    "TotalRank": 664,
+    "WinDiff": -6.66,
+    "DiffRank": 496
+  },
+  {
+    "#": 55,
+    "WinRate": 68.16,
+    "Total": 450,
+    "WinRank": 204,
+    "TotalRank": 399,
+    "WinDiff": 18.17,
+    "DiffRank": 174
+  },
+  {
+    "#": 56,
+    "WinRate": 53.56,
+    "Total": 265,
+    "WinRank": 329,
+    "TotalRank": 748,
+    "WinDiff": 28.39,
+    "DiffRank": 61
+  },
+  {
+    "#": 57,
+    "WinRate": 89.14,
+    "Total": 405,
+    "WinRank": 49,
+    "TotalRank": 469,
+    "WinDiff": 43.76,
+    "DiffRank": 2
+  },
+  {
+    "#": 58,
+    "WinRate": 55.31,
+    "Total": 290,
+    "WinRank": 316,
+    "TotalRank": 712,
+    "WinDiff": 29.1,
+    "DiffRank": 55
+  },
+  {
+    "#": 59,
+    "WinRate": 85.14,
+    "Total": 440,
+    "WinRank": 78,
+    "TotalRank": 411,
+    "WinDiff": 35.97,
+    "DiffRank": 20
+  },
+  {
+    "#": 60,
+    "WinRate": 30.34,
+    "Total": 320,
+    "WinRank": 543,
+    "TotalRank": 620,
+    "WinDiff": 1.49,
+    "DiffRank": 387
+  },
+  {
+    "#": 61,
+    "WinRate": 66.79,
+    "Total": 500,
+    "WinRank": 218,
+    "TotalRank": 227,
+    "WinDiff": 11.35,
+    "DiffRank": 243
+  },
+  {
+    "#": 62,
+    "WinRate": 50.94,
+    "Total": 305,
+    "WinRank": 351,
+    "TotalRank": 664,
+    "WinDiff": 23.81,
+    "DiffRank": 104
+  },
+  {
+    "#": 63,
+    "WinRate": 73.78,
+    "Total": 455,
+    "WinRank": 167,
+    "TotalRank": 387,
+    "WinDiff": 23.38,
+    "DiffRank": 110
+  },
+  {
+    "#": 64,
+    "WinRate": 36.83,
+    "Total": 350,
+    "WinRank": 479,
+    "TotalRank": 556,
+    "WinDiff": 2.32,
+    "DiffRank": 373
+  },
+  {
+    "#": 65,
+    "WinRate": 76.28,
+    "Total": 555,
+    "WinRank": 154,
+    "TotalRank": 120,
+    "WinDiff": 10.59,
+    "DiffRank": 256
+  },
+  {
+    "#": 66,
+    "WinRate": 57.3,
+    "Total": 300,
+    "WinRank": 302,
+    "TotalRank": 682,
+    "WinDiff": 30.55,
+    "DiffRank": 42
+  },
+  {
+    "#": 67,
+    "WinRate": 69.04,
+    "Total": 385,
+    "WinRank": 195,
+    "TotalRank": 515,
+    "WinDiff": 27.02,
+    "DiffRank": 72
+  },
+  {
+    "#": 68,
+    "WinRate": 52.43,
+    "Total": 510,
+    "WinRank": 341,
+    "TotalRank": 205,
+    "WinDiff": -4.63,
+    "DiffRank": 460
+  },
+  {
+    "#": 69,
+    "WinRate": 33.21,
+    "Total": 310,
+    "WinRank": 508,
+    "TotalRank": 644,
+    "WinDiff": 5.6,
+    "DiffRank": 333
+  },
+  {
+    "#": 70,
+    "WinRate": 59.18,
+    "Total": 400,
+    "WinRank": 284,
+    "TotalRank": 496,
+    "WinDiff": 14.54,
+    "DiffRank": 207
+  },
+  {
+    "#": 71,
+    "WinRate": 77.78,
+    "Total": 500,
+    "WinRank": 137,
+    "TotalRank": 227,
+    "WinDiff": 22.34,
+    "DiffRank": 120
+  },
+  {
+    "#": 72,
+    "WinRate": 74.78,
+    "Total": 590,
+    "WinRank": 160,
+    "TotalRank": 87,
+    "WinDiff": 3.48,
+    "DiffRank": 361
+  },
+  {
+    "#": 73,
+    "WinRate": 14.23,
+    "Total": 305,
+    "WinRank": 713,
+    "TotalRank": 664,
+    "WinDiff": -12.9,
+    "DiffRank": 590
+  },
+  {
+    "#": 74,
+    "WinRate": 23.85,
+    "Total": 405,
+    "WinRank": 609,
+    "TotalRank": 469,
+    "WinDiff": -21.53,
+    "DiffRank": 683
+  },
+  {
+    "#": 75,
+    "WinRate": 34.71,
+    "Total": 505,
+    "WinRank": 494,
+    "TotalRank": 218,
+    "WinDiff": -21.52,
+    "DiffRank": 682
+  },
+  {
+    "#": 76,
+    "WinRate": 16.85,
+    "Total": 300,
+    "WinRank": 677,
+    "TotalRank": 682,
+    "WinDiff": -9.9,
+    "DiffRank": 542
+  },
+  {
+    "#": 77,
+    "WinRate": 34.33,
+    "Total": 390,
+    "WinRank": 496,
+    "TotalRank": 507,
+    "WinDiff": -8.62,
+    "DiffRank": 524
+  },
+  {
+    "#": 78,
+    "WinRate": 52.68,
+    "Total": 490,
+    "WinRank": 337,
+    "TotalRank": 277,
+    "WinDiff": -1.34,
+    "DiffRank": 429
+  },
+  {
+    "#": 79,
+    "WinRate": 41.7,
+    "Total": 335,
+    "WinRank": 426,
+    "TotalRank": 581,
+    "WinDiff": 10.31,
+    "DiffRank": 266
+  },
+  {
+    "#": 80,
+    "WinRate": 78.28,
+    "Total": 515,
+    "WinRank": 131,
+    "TotalRank": 196,
+    "WinDiff": 20.34,
+    "DiffRank": 146
+  },
+  {
+    "#": 81,
+    "WinRate": 12.11,
+    "Total": 300,
+    "WinRank": 730,
+    "TotalRank": 682,
+    "WinDiff": -14.64,
+    "DiffRank": 614
+  },
+  {
+    "#": 82,
+    "WinRate": 21.22,
+    "Total": 390,
+    "WinRank": 628,
+    "TotalRank": 507,
+    "WinDiff": -21.73,
+    "DiffRank": 684
+  },
+  {
+    "#": 83,
+    "WinRate": 32.83,
+    "Total": 495,
+    "WinRank": 516,
+    "TotalRank": 256,
+    "WinDiff": -21.87,
+    "DiffRank": 686
+  },
+  {
+    "#": 84,
+    "WinRate": 68.54,
+    "Total": 410,
+    "WinRank": 198,
+    "TotalRank": 459,
+    "WinDiff": 22.47,
+    "DiffRank": 118
+  },
+  {
+    "#": 85,
+    "WinRate": 85.77,
+    "Total": 500,
+    "WinRank": 75,
+    "TotalRank": 227,
+    "WinDiff": 30.33,
+    "DiffRank": 44
+  },
+  {
+    "#": 86,
+    "WinRate": 15.61,
+    "Total": 315,
+    "WinRank": 695,
+    "TotalRank": 635,
+    "WinDiff": -12.57,
+    "DiffRank": 581
+  },
+  {
+    "#": 87,
+    "WinRate": 13.23,
+    "Total": 490,
+    "WinRank": 718,
+    "TotalRank": 277,
+    "WinDiff": -40.79,
+    "DiffRank": 787
+  },
+  {
+    "#": 88,
+    "WinRate": 12.36,
+    "Total": 590,
+    "WinRank": 725,
+    "TotalRank": 87,
+    "WinDiff": -58.94,
+    "DiffRank": 801
+  },
+  {
+    "#": 89,
+    "WinRate": 19.6,
+    "Total": 325,
+    "WinRank": 660,
+    "TotalRank": 610,
+    "WinDiff": -10.01,
+    "DiffRank": 545
+  },
+  {
+    "#": 90,
+    "WinRate": 47.32,
+    "Total": 465,
+    "WinRank": 381,
+    "TotalRank": 363,
+    "WinDiff": -3.95,
+    "DiffRank": 451
+  },
+  {
+    "#": 91,
+    "WinRate": 38.58,
+    "Total": 352,
+    "WinRank": 461,
+    "TotalRank": 554,
+    "WinDiff": 3.63,
+    "DiffRank": 355
+  },
+  {
+    "#": 92,
+    "WinRate": 57.8,
+    "Total": 310,
+    "WinRank": 296,
+    "TotalRank": 644,
+    "WinDiff": 30.19,
+    "DiffRank": 46
+  },
+  {
+    "#": 93,
+    "WinRate": 79.9,
+    "Total": 460,
+    "WinRank": 116,
+    "TotalRank": 374,
+    "WinDiff": 29.08,
+    "DiffRank": 57
+  },
+  {
+    "#": 94,
+    "WinRate": 20.72,
+    "Total": 325,
+    "WinRank": 642,
+    "TotalRank": 610,
+    "WinDiff": -8.89,
+    "DiffRank": 528
+  },
+  {
+    "#": 95,
+    "WinRate": 53.56,
+    "Total": 475,
+    "WinRank": 329,
+    "TotalRank": 337,
+    "WinDiff": 1.32,
+    "DiffRank": 388
+  },
+  {
+    "#": 96,
+    "WinRate": 11.99,
+    "Total": 325,
+    "WinRank": 732,
+    "TotalRank": 610,
+    "WinDiff": -17.62,
+    "DiffRank": 637
+  },
+  {
+    "#": 97,
+    "WinRate": 27.59,
+    "Total": 500,
+    "WinRank": 566,
+    "TotalRank": 227,
+    "WinDiff": -27.85,
+    "DiffRank": 738
+  },
+  {
+    "#": 98,
+    "WinRate": 16.1,
+    "Total": 305,
+    "WinRank": 687,
+    "TotalRank": 664,
+    "WinDiff": -11.03,
+    "DiffRank": 558
+  },
+  {
+    "#": 99,
+    "WinRate": 54.68,
+    "Total": 525,
+    "WinRank": 322,
+    "TotalRank": 162,
+    "WinDiff": -5.12,
+    "DiffRank": 471
+  },
+  {
+    "#": 100,
+    "WinRate": 42.95,
+    "Total": 310,
+    "WinRank": 416,
+    "TotalRank": 644,
+    "WinDiff": 15.34,
+    "DiffRank": 198
+  },
+  {
+    "#": 101,
+    "WinRate": 61.05,
+    "Total": 405,
+    "WinRank": 266,
+    "TotalRank": 469,
+    "WinDiff": 15.67,
+    "DiffRank": 196
+  },
+  {
+    "#": 102,
+    "WinRate": 76.53,
+    "Total": 500,
+    "WinRank": 151,
+    "TotalRank": 227,
+    "WinDiff": 21.09,
+    "DiffRank": 136
+  },
+  {
+    "#": 103,
+    "WinRate": 80.9,
+    "Total": 600,
+    "WinRank": 106,
+    "TotalRank": 49,
+    "WinDiff": 8.5,
+    "DiffRank": 293
+  },
+  {
+    "#": 104,
+    "WinRate": 46.07,
+    "Total": 385,
+    "WinRank": 396,
+    "TotalRank": 515,
+    "WinDiff": 4.05,
+    "DiffRank": 351
+  },
+  {
+    "#": 105,
+    "WinRate": 18.98,
+    "Total": 328,
+    "WinRank": 665,
+    "TotalRank": 608,
+    "WinDiff": -11.13,
+    "DiffRank": 560
+  },
+  {
+    "#": 106,
+    "WinRate": 48.69,
+    "Total": 483,
+    "WinRank": 373,
+    "TotalRank": 313,
+    "WinDiff": -4.45,
+    "DiffRank": 458
+  },
+  {
+    "#": 107,
+    "WinRate": 28.71,
+    "Total": 325,
+    "WinRank": 555,
+    "TotalRank": 610,
+    "WinDiff": -0.9,
+    "DiffRank": 420
+  },
+  {
+    "#": 108,
+    "WinRate": 60.05,
+    "Total": 475,
+    "WinRank": 273,
+    "TotalRank": 337,
+    "WinDiff": 7.81,
+    "DiffRank": 307
+  },
+  {
+    "#": 109,
+    "WinRate": 55.68,
+    "Total": 330,
+    "WinRank": 313,
+    "TotalRank": 591,
+    "WinDiff": 25.22,
+    "DiffRank": 89
+  },
+  {
+    "#": 110,
+    "WinRate": 79.15,
+    "Total": 480,
+    "WinRank": 124,
+    "TotalRank": 320,
+    "WinDiff": 26.36,
+    "DiffRank": 79
+  },
+  {
+    "#": 111,
+    "WinRate": 16.73,
+    "Total": 325,
+    "WinRank": 679,
+    "TotalRank": 610,
+    "WinDiff": -12.88,
+    "DiffRank": 588
+  },
+  {
+    "#": 112,
+    "WinRate": 35.83,
+    "Total": 520,
+    "WinRank": 488,
+    "TotalRank": 181,
+    "WinDiff": -23.02,
+    "DiffRank": 703
+  },
+  {
+    "#": 113,
+    "WinRate": 15.36,
+    "Total": 320,
+    "WinRank": 698,
+    "TotalRank": 620,
+    "WinDiff": -13.49,
+    "DiffRank": 601
+  },
+  {
+    "#": 114,
+    "WinRate": 24.97,
+    "Total": 425,
+    "WinRank": 601,
+    "TotalRank": 432,
+    "WinDiff": -22.84,
+    "DiffRank": 700
+  },
+  {
+    "#": 115,
+    "WinRate": 68.04,
+    "Total": 455,
+    "WinRank": 208,
+    "TotalRank": 387,
+    "WinDiff": 17.64,
+    "DiffRank": 178
+  },
+  {
+    "#": 116,
+    "WinRate": 58.05,
+    "Total": 455,
+    "WinRank": 293,
+    "TotalRank": 387,
+    "WinDiff": 7.65,
+    "DiffRank": 310
+  },
+  {
+    "#": 117,
+    "WinRate": 7.87,
+    "Total": 385,
+    "WinRank": 756,
+    "TotalRank": 515,
+    "WinDiff": -34.15,
+    "DiffRank": 764
+  },
+  {
+    "#": 118,
+    "WinRate": 11.86,
+    "Total": 340,
+    "WinRank": 735,
+    "TotalRank": 572,
+    "WinDiff": -20.52,
+    "DiffRank": 665
+  },
+  {
+    "#": 119,
+    "WinRate": 38.83,
+    "Total": 490,
+    "WinRank": 455,
+    "TotalRank": 277,
+    "WinDiff": -15.19,
+    "DiffRank": 616
+  },
+  {
+    "#": 120,
+    "WinRate": 21.72,
+    "Total": 345,
+    "WinRank": 623,
+    "TotalRank": 567,
+    "WinDiff": -11.7,
+    "DiffRank": 566
+  },
+  {
+    "#": 121,
+    "WinRate": 41.57,
+    "Total": 485,
+    "WinRank": 429,
+    "TotalRank": 299,
+    "WinDiff": -11.81,
+    "DiffRank": 568
+  },
+  {
+    "#": 122,
+    "WinRate": 14.48,
+    "Total": 450,
+    "WinRank": 709,
+    "TotalRank": 399,
+    "WinDiff": -35.51,
+    "DiffRank": 767
+  },
+  {
+    "#": 123,
+    "WinRate": 37.83,
+    "Total": 435,
+    "WinRank": 471,
+    "TotalRank": 420,
+    "WinDiff": -10.91,
+    "DiffRank": 557
+  },
+  {
+    "#": 124,
+    "WinRate": 68.29,
+    "Total": 490,
+    "WinRank": 202,
+    "TotalRank": 277,
+    "WinDiff": 14.27,
+    "DiffRank": 209
+  },
+  {
+    "#": 125,
+    "WinRate": 77.65,
+    "Total": 590,
+    "WinRank": 140,
+    "TotalRank": 87,
+    "WinDiff": 6.35,
+    "DiffRank": 323
+  },
+  {
+    "#": 126,
+    "WinRate": 32.71,
+    "Total": 295,
+    "WinRank": 519,
+    "TotalRank": 702,
+    "WinDiff": 6.27,
+    "DiffRank": 327
+  },
+  {
+    "#": 127,
+    "WinRate": 64.67,
+    "Total": 440,
+    "WinRank": 231,
+    "TotalRank": 411,
+    "WinDiff": 15.5,
+    "DiffRank": 197
+  },
+  {
+    "#": 128,
+    "WinRate": 43.45,
+    "Total": 320,
+    "WinRank": 409,
+    "TotalRank": 620,
+    "WinDiff": 14.6,
+    "DiffRank": 206
+  },
+  {
+    "#": 129,
+    "WinRate": 50.69,
+    "Total": 450,
+    "WinRank": 352,
+    "TotalRank": 399,
+    "WinDiff": 0.7,
+    "DiffRank": 398
+  },
+  {
+    "#": 130,
+    "WinRate": 51.19,
+    "Total": 340,
+    "WinRank": 350,
+    "TotalRank": 572,
+    "WinDiff": 18.81,
+    "DiffRank": 167
+  },
+  {
+    "#": 131,
+    "WinRate": 92.38,
+    "Total": 520,
+    "WinRank": 24,
+    "TotalRank": 181,
+    "WinDiff": 33.53,
+    "DiffRank": 32
+  },
+  {
+    "#": 132,
+    "WinRate": 59.18,
+    "Total": 460,
+    "WinRank": 284,
+    "TotalRank": 374,
+    "WinDiff": 8.36,
+    "DiffRank": 296
+  },
+  {
+    "#": 133,
+    "WinRate": 88.14,
+    "Total": 500,
+    "WinRank": 58,
+    "TotalRank": 227,
+    "WinDiff": 32.7,
+    "DiffRank": 36
+  },
+  {
+    "#": 134,
+    "WinRate": 70.29,
+    "Total": 455,
+    "WinRank": 188,
+    "TotalRank": 387,
+    "WinDiff": 19.89,
+    "DiffRank": 148
+  },
+  {
+    "#": 135,
+    "WinRate": 83.4,
+    "Total": 490,
+    "WinRank": 85,
+    "TotalRank": 277,
+    "WinDiff": 29.38,
+    "DiffRank": 52
+  },
+  {
+    "#": 136,
+    "WinRate": 74.53,
+    "Total": 495,
+    "WinRank": 163,
+    "TotalRank": 256,
+    "WinDiff": 19.83,
+    "DiffRank": 150
+  },
+  {
+    "#": 137,
+    "WinRate": 67.67,
+    "Total": 500,
+    "WinRank": 211,
+    "TotalRank": 227,
+    "WinDiff": 12.23,
+    "DiffRank": 230
+  },
+  {
+    "#": 138,
+    "WinRate": 88.51,
+    "Total": 600,
+    "WinRank": 55,
+    "TotalRank": 49,
+    "WinDiff": 16.11,
+    "DiffRank": 188
+  },
+  {
+    "#": 139,
+    "WinRate": 85.77,
+    "Total": 490,
+    "WinRank": 75,
+    "TotalRank": 277,
+    "WinDiff": 31.75,
+    "DiffRank": 39
+  },
+  {
+    "#": 140,
+    "WinRate": 17.6,
+    "Total": 200,
+    "WinRank": 675,
+    "TotalRank": 793,
+    "WinDiff": 10.57,
+    "DiffRank": 258
+  },
+  {
+    "#": 141,
+    "WinRate": 66.29,
+    "Total": 540,
+    "WinRank": 219,
+    "TotalRank": 126,
+    "WinDiff": 3.54,
+    "DiffRank": 357
+  },
+  {
+    "#": 142,
+    "WinRate": 68.29,
+    "Total": 640,
+    "WinRank": 202,
+    "TotalRank": 34,
+    "WinDiff": -6.65,
+    "DiffRank": 495
+  },
+  {
+    "#": 143,
+    "WinRate": 40.7,
+    "Total": 535,
+    "WinRank": 432,
+    "TotalRank": 135,
+    "WinDiff": -21.06,
+    "DiffRank": 674
+  },
+  {
+    "#": 144,
+    "WinRate": 22.6,
+    "Total": 288,
+    "WinRank": 617,
+    "TotalRank": 720,
+    "WinDiff": -3.53,
+    "DiffRank": 445
+  },
+  {
+    "#": 145,
+    "WinRate": 30.34,
+    "Total": 325,
+    "WinRank": 543,
+    "TotalRank": 610,
+    "WinDiff": 0.73,
+    "DiffRank": 397
+  },
+  {
+    "#": 146,
+    "WinRate": 44.82,
+    "Total": 525,
+    "WinRank": 404,
+    "TotalRank": 162,
+    "WinDiff": -14.98,
+    "DiffRank": 615
+  },
+  {
+    "#": 147,
+    "WinRate": 88.14,
+    "Total": 525,
+    "WinRank": 58,
+    "TotalRank": 162,
+    "WinDiff": 28.34,
+    "DiffRank": 64
+  },
+  {
+    "#": 148,
+    "WinRate": 46.57,
+    "Total": 525,
+    "WinRank": 387,
+    "TotalRank": 162,
+    "WinDiff": -13.23,
+    "DiffRank": 598
+  },
+  {
+    "#": 149,
+    "WinRate": 14.61,
+    "Total": 395,
+    "WinRank": 708,
+    "TotalRank": 501,
+    "WinDiff": -29.22,
+    "DiffRank": 745
+  },
+  {
+    "#": 150,
+    "WinRate": 11.24,
+    "Total": 355,
+    "WinRank": 740,
+    "TotalRank": 548,
+    "WinDiff": -24.37,
+    "DiffRank": 711
+  },
+  {
+    "#": 151,
+    "WinRate": 33.83,
+    "Total": 495,
+    "WinRank": 501,
+    "TotalRank": 256,
+    "WinDiff": -20.87,
+    "DiffRank": 670
+  },
+  {
+    "#": 152,
+    "WinRate": 34.33,
+    "Total": 355,
+    "WinRank": 496,
+    "TotalRank": 548,
+    "WinDiff": -1.28,
+    "DiffRank": 428
+  },
+  {
+    "#": 153,
+    "WinRate": 63.17,
+    "Total": 495,
+    "WinRank": 239,
+    "TotalRank": 256,
+    "WinDiff": 8.47,
+    "DiffRank": 294
+  },
+  {
+    "#": 154,
+    "WinRate": 97.5,
+    "Total": 515,
+    "WinRank": 4,
+    "TotalRank": 196,
+    "WinDiff": 39.56,
+    "DiffRank": 8
+  },
+  {
+    "#": 155,
+    "WinRate": 99.38,
+    "Total": 615,
+    "WinRank": 1,
+    "TotalRank": 46,
+    "WinDiff": 25.75,
+    "DiffRank": 84
+  },
+  {
+    "#": 156,
+    "WinRate": 32.96,
+    "Total": 540,
+    "WinRank": 511,
+    "TotalRank": 126,
+    "WinDiff": -29.79,
+    "DiffRank": 746
+  },
+  {
+    "#": 157,
+    "WinRate": 68.16,
+    "Total": 580,
+    "WinRank": 204,
+    "TotalRank": 91,
+    "WinDiff": -1.8,
+    "DiffRank": 437
+  },
+  {
+    "#": 158,
+    "WinRate": 80.9,
+    "Total": 580,
+    "WinRank": 106,
+    "TotalRank": 91,
+    "WinDiff": 10.94,
+    "DiffRank": 249
+  },
+  {
+    "#": 159,
+    "WinRate": 72.41,
+    "Total": 580,
+    "WinRank": 178,
+    "TotalRank": 91,
+    "WinDiff": 2.45,
+    "DiffRank": 370
+  },
+  {
+    "#": 160,
+    "WinRate": 25.84,
+    "Total": 300,
+    "WinRank": 591,
+    "TotalRank": 682,
+    "WinDiff": -0.91,
+    "DiffRank": 421
+  },
+  {
+    "#": 161,
+    "WinRate": 50.56,
+    "Total": 420,
+    "WinRank": 357,
+    "TotalRank": 441,
+    "WinDiff": 3.28,
+    "DiffRank": 363
+  },
+  {
+    "#": 162,
+    "WinRate": 61.55,
+    "Total": 600,
+    "WinRank": 253,
+    "TotalRank": 49,
+    "WinDiff": -10.85,
+    "DiffRank": 555
+  },
+  {
+    "#": 163,
+    "WinRate": 93.88,
+    "Total": 680,
+    "WinRank": 17,
+    "TotalRank": 16,
+    "WinDiff": 16.61,
+    "DiffRank": 184
+  },
+  {
+    "#": 164,
+    "WinRate": 95.76,
+    "Total": 780,
+    "WinRank": 10,
+    "TotalRank": 1,
+    "WinDiff": 5.72,
+    "DiffRank": 331
+  },
+  {
+    "#": 165,
+    "WinRate": 94.38,
+    "Total": 780,
+    "WinRank": 14,
+    "TotalRank": 1,
+    "WinDiff": 4.34,
+    "DiffRank": 347
+  },
+  {
+    "#": 166,
+    "WinRate": 78.78,
+    "Total": 600,
+    "WinRank": 128,
+    "TotalRank": 49,
+    "WinDiff": 6.38,
+    "DiffRank": 322
+  },
+  {
+    "#": 167,
+    "WinRate": 21.72,
+    "Total": 318,
+    "WinRank": 623,
+    "TotalRank": 629,
+    "WinDiff": -6.85,
+    "DiffRank": 498
+  },
+  {
+    "#": 168,
+    "WinRate": 38.95,
+    "Total": 405,
+    "WinRank": 452,
+    "TotalRank": 469,
+    "WinDiff": -6.43,
+    "DiffRank": 489
+  },
+  {
+    "#": 169,
+    "WinRate": 61.3,
+    "Total": 525,
+    "WinRank": 259,
+    "TotalRank": 162,
+    "WinDiff": 1.5,
+    "DiffRank": 386
+  },
+  {
+    "#": 170,
+    "WinRate": 38.33,
+    "Total": 309,
+    "WinRank": 467,
+    "TotalRank": 654,
+    "WinDiff": 10.82,
+    "DiffRank": 250
+  },
+  {
+    "#": 171,
+    "WinRate": 56.93,
+    "Total": 405,
+    "WinRank": 304,
+    "TotalRank": 469,
+    "WinDiff": 11.55,
+    "DiffRank": 238
+  },
+  {
+    "#": 172,
+    "WinRate": 79.9,
+    "Total": 534,
+    "WinRank": 116,
+    "TotalRank": 144,
+    "WinDiff": 18.34,
+    "DiffRank": 173
+  },
+  {
+    "#": 173,
+    "WinRate": 20.6,
+    "Total": 314,
+    "WinRank": 647,
+    "TotalRank": 638,
+    "WinDiff": -7.46,
+    "DiffRank": 508
+  },
+  {
+    "#": 174,
+    "WinRate": 38.08,
+    "Total": 405,
+    "WinRank": 469,
+    "TotalRank": 469,
+    "WinDiff": -7.3,
+    "DiffRank": 504
+  },
+  {
+    "#": 175,
+    "WinRate": 60.92,
+    "Total": 530,
+    "WinRank": 268,
+    "TotalRank": 149,
+    "WinDiff": 0.15,
+    "DiffRank": 407
+  },
+  {
+    "#": 176,
+    "WinRate": 2.62,
+    "Total": 215,
+    "WinRank": 794,
+    "TotalRank": 783,
+    "WinDiff": -9.21,
+    "DiffRank": 532
+  },
+  {
+    "#": 177,
+    "WinRate": 67.67,
+    "Total": 415,
+    "WinRank": 211,
+    "TotalRank": 451,
+    "WinDiff": 20.97,
+    "DiffRank": 139
+  },
+  {
+    "#": 178,
+    "WinRate": 25.09,
+    "Total": 262,
+    "WinRank": 598,
+    "TotalRank": 752,
+    "WinDiff": 0.15,
+    "DiffRank": 407
+  },
+  {
+    "#": 179,
+    "WinRate": 49.94,
+    "Total": 442,
+    "WinRank": 361,
+    "TotalRank": 409,
+    "WinDiff": 0.6,
+    "DiffRank": 401
+  },
+  {
+    "#": 180,
+    "WinRate": 23.22,
+    "Total": 265,
+    "WinRank": 612,
+    "TotalRank": 748,
+    "WinDiff": -1.95,
+    "DiffRank": 439
+  },
+  {
+    "#": 181,
+    "WinRate": 52.43,
+    "Total": 390,
+    "WinRank": 341,
+    "TotalRank": 507,
+    "WinDiff": 9.48,
+    "DiffRank": 283
+  },
+  {
+    "#": 182,
+    "WinRate": 7.37,
+    "Total": 250,
+    "WinRank": 764,
+    "TotalRank": 760,
+    "WinDiff": -16.07,
+    "DiffRank": 626
+  },
+  {
+    "#": 183,
+    "WinRate": 19.48,
+    "Total": 390,
+    "WinRank": 661,
+    "TotalRank": 507,
+    "WinDiff": -23.47,
+    "DiffRank": 706
+  },
+  {
+    "#": 184,
+    "WinRate": 96.5,
+    "Total": 535,
+    "WinRank": 7,
+    "TotalRank": 135,
+    "WinDiff": 34.74,
+    "DiffRank": 27
+  },
+  {
+    "#": 185,
+    "WinRate": 49.31,
+    "Total": 330,
+    "WinRank": 367,
+    "TotalRank": 591,
+    "WinDiff": 18.85,
+    "DiffRank": 165
+  },
+  {
+    "#": 186,
+    "WinRate": 50.56,
+    "Total": 460,
+    "WinRank": 357,
+    "TotalRank": 374,
+    "WinDiff": -0.26,
+    "DiffRank": 412
+  },
+  {
+    "#": 187,
+    "WinRate": 31.59,
+    "Total": 205,
+    "WinRank": 534,
+    "TotalRank": 788,
+    "WinDiff": 23.49,
+    "DiffRank": 108
+  },
+  {
+    "#": 188,
+    "WinRate": 1.25,
+    "Total": 218,
+    "WinRank": 801,
+    "TotalRank": 782,
+    "WinDiff": -11.86,
+    "DiffRank": 569
+  },
+  {
+    "#": 189,
+    "WinRate": 2.12,
+    "Total": 210,
+    "WinRank": 800,
+    "TotalRank": 785,
+    "WinDiff": -7.68,
+    "DiffRank": 513
+  },
+  {
+    "#": 190,
+    "WinRate": 2.5,
+    "Total": 245,
+    "WinRank": 795,
+    "TotalRank": 767,
+    "WinDiff": -19.96,
+    "DiffRank": 658
+  },
+  {
+    "#": 191,
+    "WinRate": 20.72,
+    "Total": 405,
+    "WinRank": 642,
+    "TotalRank": 469,
+    "WinDiff": -24.66,
+    "DiffRank": 715
+  },
+  {
+    "#": 192,
+    "WinRate": 50.44,
+    "Total": 320,
+    "WinRank": 359,
+    "TotalRank": 620,
+    "WinDiff": 21.59,
+    "DiffRank": 132
+  },
+  {
+    "#": 193,
+    "WinRate": 76.53,
+    "Total": 470,
+    "WinRank": 151,
+    "TotalRank": 352,
+    "WinDiff": 24.79,
+    "DiffRank": 94
+  },
+  {
+    "#": 194,
+    "WinRate": 11.74,
+    "Total": 280,
+    "WinRank": 736,
+    "TotalRank": 728,
+    "WinDiff": -14.11,
+    "DiffRank": 606
+  },
+  {
+    "#": 195,
+    "WinRate": 20.85,
+    "Total": 365,
+    "WinRank": 639,
+    "TotalRank": 534,
+    "WinDiff": -17,
+    "DiffRank": 629
+  },
+  {
+    "#": 196,
+    "WinRate": 32.83,
+    "Total": 510,
+    "WinRank": 516,
+    "TotalRank": 205,
+    "WinDiff": -24.23,
+    "DiffRank": 709
+  },
+  {
+    "#": 197,
+    "WinRate": 25.09,
+    "Total": 610,
+    "WinRank": 598,
+    "TotalRank": 47,
+    "WinDiff": -48.18,
+    "DiffRank": 799
+  },
+  {
+    "#": 198,
+    "WinRate": 28.09,
+    "Total": 490,
+    "WinRank": 561,
+    "TotalRank": 277,
+    "WinDiff": -25.93,
+    "DiffRank": 726
+  },
+  {
+    "#": 199,
+    "WinRate": 15.11,
+    "Total": 250,
+    "WinRank": 701,
+    "TotalRank": 760,
+    "WinDiff": -8.33,
+    "DiffRank": 521
+  },
+  {
+    "#": 200,
+    "WinRate": 27.09,
+    "Total": 420,
+    "WinRank": 573,
+    "TotalRank": 441,
+    "WinDiff": -20.19,
+    "DiffRank": 662
+  },
+  {
+    "#": 201,
+    "WinRate": 18.35,
+    "Total": 410,
+    "WinRank": 671,
+    "TotalRank": 459,
+    "WinDiff": -27.72,
+    "DiffRank": 737
+  },
+  {
+    "#": 202,
+    "WinRate": 51.44,
+    "Total": 500,
+    "WinRank": 348,
+    "TotalRank": 227,
+    "WinDiff": -4,
+    "DiffRank": 452
+  },
+  {
+    "#": 203,
+    "WinRate": 28.59,
+    "Total": 250,
+    "WinRank": 557,
+    "TotalRank": 760,
+    "WinDiff": 5.15,
+    "DiffRank": 338
+  },
+  {
+    "#": 204,
+    "WinRate": 58.8,
+    "Total": 340,
+    "WinRank": 290,
+    "TotalRank": 572,
+    "WinDiff": 26.42,
+    "DiffRank": 78
+  },
+  {
+    "#": 205,
+    "WinRate": 86.02,
+    "Total": 460,
+    "WinRank": 73,
+    "TotalRank": 374,
+    "WinDiff": 35.2,
+    "DiffRank": 25
+  },
+  {
+    "#": 206,
+    "WinRate": 62.05,
+    "Total": 360,
+    "WinRank": 249,
+    "TotalRank": 541,
+    "WinDiff": 25.32,
+    "DiffRank": 87
+  },
+  {
+    "#": 207,
+    "WinRate": 7.99,
+    "Total": 180,
+    "WinRank": 755,
+    "TotalRank": 802,
+    "WinDiff": -10.46,
+    "DiffRank": 550
+  },
+  {
+    "#": 208,
+    "WinRate": 12.73,
+    "Total": 425,
+    "WinRank": 722,
+    "TotalRank": 432,
+    "WinDiff": -35.08,
+    "DiffRank": 766
+  },
+  {
+    "#": 209,
+    "WinRate": 74.78,
+    "Total": 390,
+    "WinRank": 160,
+    "TotalRank": 507,
+    "WinDiff": 31.83,
+    "DiffRank": 38
+  },
+  {
+    "#": 210,
+    "WinRate": 3.12,
+    "Total": 210,
+    "WinRank": 792,
+    "TotalRank": 785,
+    "WinDiff": -6.68,
+    "DiffRank": 497
+  },
+  {
+    "#": 211,
+    "WinRate": 21.22,
+    "Total": 430,
+    "WinRank": 628,
+    "TotalRank": 424,
+    "WinDiff": -27.07,
+    "DiffRank": 731
+  },
+  {
+    "#": 212,
+    "WinRate": 83.15,
+    "Total": 525,
+    "WinRank": 87,
+    "TotalRank": 162,
+    "WinDiff": 23.35,
+    "DiffRank": 113
+  },
+  {
+    "#": 213,
+    "WinRate": 47.57,
+    "Total": 525,
+    "WinRank": 380,
+    "TotalRank": 162,
+    "WinDiff": -12.23,
+    "DiffRank": 577
+  },
+  {
+    "#": 214,
+    "WinRate": 78.28,
+    "Total": 405,
+    "WinRank": 131,
+    "TotalRank": 469,
+    "WinDiff": 32.9,
+    "DiffRank": 35
+  },
+  {
+    "#": 215,
+    "WinRate": 12.23,
+    "Total": 490,
+    "WinRank": 727,
+    "TotalRank": 277,
+    "WinDiff": -41.79,
+    "DiffRank": 789
+  },
+  {
+    "#": 216,
+    "WinRate": 58.3,
+    "Total": 435,
+    "WinRank": 292,
+    "TotalRank": 420,
+    "WinDiff": 9.56,
+    "DiffRank": 281
+  },
+  {
+    "#": 217,
+    "WinRate": 25.09,
+    "Total": 336,
+    "WinRank": 598,
+    "TotalRank": 580,
+    "WinDiff": -6.49,
+    "DiffRank": 492
+  },
+  {
+    "#": 218,
+    "WinRate": 12.11,
+    "Total": 405,
+    "WinRank": 730,
+    "TotalRank": 469,
+    "WinDiff": -33.27,
+    "DiffRank": 761
+  },
+  {
+    "#": 219,
+    "WinRate": 61.55,
+    "Total": 455,
+    "WinRank": 253,
+    "TotalRank": 387,
+    "WinDiff": 11.15,
+    "DiffRank": 245
+  },
+  {
+    "#": 220,
+    "WinRate": 8.36,
+    "Total": 290,
+    "WinRank": 753,
+    "TotalRank": 712,
+    "WinDiff": -17.85,
+    "DiffRank": 638
+  },
+  {
+    "#": 221,
+    "WinRate": 22.1,
+    "Total": 465,
+    "WinRank": 620,
+    "TotalRank": 363,
+    "WinDiff": -29.17,
+    "DiffRank": 743
+  },
+  {
+    "#": 222,
+    "WinRate": 21.22,
+    "Total": 415,
+    "WinRank": 628,
+    "TotalRank": 451,
+    "WinDiff": -25.48,
+    "DiffRank": 724
+  },
+  {
+    "#": 223,
+    "WinRate": 70.54,
+    "Total": 430,
+    "WinRank": 187,
+    "TotalRank": 424,
+    "WinDiff": 22.25,
+    "DiffRank": 125
+  },
+  {
+    "#": 224,
+    "WinRate": 20.6,
+    "Total": 510,
+    "WinRank": 647,
+    "TotalRank": 205,
+    "WinDiff": -36.46,
+    "DiffRank": 768
+  },
+  {
+    "#": 225,
+    "WinRate": 35.21,
+    "Total": 610,
+    "WinRank": 492,
+    "TotalRank": 47,
+    "WinDiff": -38.06,
+    "DiffRank": 774
+  },
+  {
+    "#": 226,
+    "WinRate": 11.36,
+    "Total": 300,
+    "WinRank": 738,
+    "TotalRank": 682,
+    "WinDiff": -15.39,
+    "DiffRank": 620
+  },
+  {
+    "#": 227,
+    "WinRate": 26.09,
+    "Total": 450,
+    "WinRank": 589,
+    "TotalRank": 399,
+    "WinDiff": -23.9,
+    "DiffRank": 707
+  },
+  {
+    "#": 228,
+    "WinRate": 68.16,
+    "Total": 430,
+    "WinRank": 204,
+    "TotalRank": 424,
+    "WinDiff": 19.87,
+    "DiffRank": 149
+  },
+  {
+    "#": 229,
+    "WinRate": 48.19,
+    "Total": 500,
+    "WinRank": 378,
+    "TotalRank": 227,
+    "WinDiff": -7.25,
+    "DiffRank": 503
+  },
+  {
+    "#": 230,
+    "WinRate": 61.05,
+    "Total": 600,
+    "WinRank": 266,
+    "TotalRank": 49,
+    "WinDiff": -11.35,
+    "DiffRank": 563
+  },
+  {
+    "#": 231,
+    "WinRate": 0,
+    "Total": 505,
+    "WinRank": 802,
+    "TotalRank": 218,
+    "WinDiff": -56.23,
+    "DiffRank": 800
+  },
+  {
+    "#": 232,
+    "WinRate": 67.04,
+    "Total": 500,
+    "WinRank": 215,
+    "TotalRank": 227,
+    "WinDiff": 11.6,
+    "DiffRank": 237
+  },
+  {
+    "#": 233,
+    "WinRate": 61.55,
+    "Total": 600,
+    "WinRank": 253,
+    "TotalRank": 49,
+    "WinDiff": -10.85,
+    "DiffRank": 555
+  },
+  {
+    "#": 234,
+    "WinRate": 92.63,
+    "Total": 430,
+    "WinRank": 23,
+    "TotalRank": 424,
+    "WinDiff": 44.34,
+    "DiffRank": 1
+  },
+  {
+    "#": 235,
+    "WinRate": 16.35,
+    "Total": 330,
+    "WinRank": 681,
+    "TotalRank": 591,
+    "WinDiff": -14.11,
+    "DiffRank": 606
+  },
+  {
+    "#": 236,
+    "WinRate": 34.08,
+    "Total": 500,
+    "WinRank": 498,
+    "TotalRank": 227,
+    "WinDiff": -21.36,
+    "DiffRank": 679
+  },
+  {
+    "#": 237,
+    "WinRate": 3.75,
+    "Total": 250,
+    "WinRank": 789,
+    "TotalRank": 760,
+    "WinDiff": -19.69,
+    "DiffRank": 652
+  },
+  {
+    "#": 238,
+    "WinRate": 7.74,
+    "Total": 410,
+    "WinRank": 758,
+    "TotalRank": 459,
+    "WinDiff": -38.33,
+    "DiffRank": 777
+  },
+  {
+    "#": 239,
+    "WinRate": 26.59,
+    "Total": 250,
+    "WinRank": 581,
+    "TotalRank": 760,
+    "WinDiff": 3.15,
+    "DiffRank": 364
+  },
+  {
+    "#": 240,
+    "WinRate": 28.96,
+    "Total": 450,
+    "WinRank": 553,
+    "TotalRank": 399,
+    "WinDiff": -21.03,
+    "DiffRank": 673
+  },
+  {
+    "#": 241,
+    "WinRate": 12.48,
+    "Total": 380,
+    "WinRank": 723,
+    "TotalRank": 522,
+    "WinDiff": -28.56,
+    "DiffRank": 741
+  },
+  {
+    "#": 242,
+    "WinRate": 43.32,
+    "Total": 300,
+    "WinRank": 411,
+    "TotalRank": 682,
+    "WinDiff": 16.57,
+    "DiffRank": 185
+  },
+  {
+    "#": 243,
+    "WinRate": 24.09,
+    "Total": 480,
+    "WinRank": 607,
+    "TotalRank": 320,
+    "WinDiff": -28.7,
+    "DiffRank": 742
+  },
+  {
+    "#": 244,
+    "WinRate": 56.55,
+    "Total": 330,
+    "WinRank": 308,
+    "TotalRank": 591,
+    "WinDiff": 26.09,
+    "DiffRank": 80
+  },
+  {
+    "#": 245,
+    "WinRate": 50.69,
+    "Total": 465,
+    "WinRank": 352,
+    "TotalRank": 363,
+    "WinDiff": -0.58,
+    "DiffRank": 416
+  },
+  {
+    "#": 246,
+    "WinRate": 54.81,
+    "Total": 465,
+    "WinRank": 320,
+    "TotalRank": 363,
+    "WinDiff": 3.54,
+    "DiffRank": 357
+  },
+  {
+    "#": 247,
+    "WinRate": 43.07,
+    "Total": 330,
+    "WinRank": 414,
+    "TotalRank": 591,
+    "WinDiff": 12.61,
+    "DiffRank": 224
+  },
+  {
+    "#": 248,
+    "WinRate": 75.91,
+    "Total": 500,
+    "WinRank": 157,
+    "TotalRank": 227,
+    "WinDiff": 20.47,
+    "DiffRank": 144
+  },
+  {
+    "#": 249,
+    "WinRate": 91.76,
+    "Total": 600,
+    "WinRank": 32,
+    "TotalRank": 49,
+    "WinDiff": 19.36,
+    "DiffRank": 154
+  },
+  {
+    "#": 250,
+    "WinRate": 69.04,
+    "Total": 540,
+    "WinRank": 195,
+    "TotalRank": 126,
+    "WinDiff": 6.29,
+    "DiffRank": 324
+  },
+  {
+    "#": 251,
+    "WinRate": 20.85,
+    "Total": 330,
+    "WinRank": 639,
+    "TotalRank": 591,
+    "WinDiff": -9.61,
+    "DiffRank": 537
+  },
+  {
+    "#": 252,
+    "WinRate": 32.46,
+    "Total": 500,
+    "WinRank": 523,
+    "TotalRank": 227,
+    "WinDiff": -22.98,
+    "DiffRank": 702
+  },
+  {
+    "#": 253,
+    "WinRate": 36.95,
+    "Total": 515,
+    "WinRank": 477,
+    "TotalRank": 196,
+    "WinDiff": -20.99,
+    "DiffRank": 672
+  },
+  {
+    "#": 254,
+    "WinRate": 63.92,
+    "Total": 465,
+    "WinRank": 238,
+    "TotalRank": 363,
+    "WinDiff": 12.65,
+    "DiffRank": 223
+  },
+  {
+    "#": 255,
+    "WinRate": 36.58,
+    "Total": 250,
+    "WinRank": 485,
+    "TotalRank": 760,
+    "WinDiff": 13.14,
+    "DiffRank": 217
+  },
+  {
+    "#": 256,
+    "WinRate": 11.36,
+    "Total": 210,
+    "WinRank": 738,
+    "TotalRank": 785,
+    "WinDiff": 1.56,
+    "DiffRank": 383
+  },
+  {
+    "#": 257,
+    "WinRate": 50.69,
+    "Total": 455,
+    "WinRank": 352,
+    "TotalRank": 387,
+    "WinDiff": 0.29,
+    "DiffRank": 404
+  },
+  {
+    "#": 258,
+    "WinRate": 36.83,
+    "Total": 305,
+    "WinRank": 479,
+    "TotalRank": 664,
+    "WinDiff": 9.7,
+    "DiffRank": 280
+  },
+  {
+    "#": 259,
+    "WinRate": 70.29,
+    "Total": 360,
+    "WinRank": 188,
+    "TotalRank": 541,
+    "WinDiff": 33.56,
+    "DiffRank": 31
+  },
+  {
+    "#": 260,
+    "WinRate": 61.3,
+    "Total": 365,
+    "WinRank": 259,
+    "TotalRank": 534,
+    "WinDiff": 23.45,
+    "DiffRank": 109
+  },
+  {
+    "#": 261,
+    "WinRate": 77.4,
+    "Total": 490,
+    "WinRank": 144,
+    "TotalRank": 277,
+    "WinDiff": 23.38,
+    "DiffRank": 110
+  },
+  {
+    "#": 262,
+    "WinRate": 23.97,
+    "Total": 540,
+    "WinRank": 608,
+    "TotalRank": 126,
+    "WinDiff": -38.78,
+    "DiffRank": 778
+  },
+  {
+    "#": 263,
+    "WinRate": 89.51,
+    "Total": 580,
+    "WinRank": 46,
+    "TotalRank": 91,
+    "WinDiff": 19.55,
+    "DiffRank": 152
+  },
+  {
+    "#": 264,
+    "WinRate": 81.02,
+    "Total": 580,
+    "WinRank": 103,
+    "TotalRank": 91,
+    "WinDiff": 11.06,
+    "DiffRank": 247
+  },
+  {
+    "#": 265,
+    "WinRate": 65.42,
+    "Total": 580,
+    "WinRank": 225,
+    "TotalRank": 91,
+    "WinDiff": -4.54,
+    "DiffRank": 459
+  },
+  {
+    "#": 266,
+    "WinRate": 20.22,
+    "Total": 300,
+    "WinRank": 654,
+    "TotalRank": 682,
+    "WinDiff": -6.53,
+    "DiffRank": 494
+  },
+  {
+    "#": 267,
+    "WinRate": 30.59,
+    "Total": 410,
+    "WinRank": 540,
+    "TotalRank": 459,
+    "WinDiff": -15.48,
+    "DiffRank": 622
+  },
+  {
+    "#": 268,
+    "WinRate": 46.94,
+    "Total": 600,
+    "WinRank": 384,
+    "TotalRank": 49,
+    "WinDiff": -25.46,
+    "DiffRank": 723
+  },
+  {
+    "#": 269,
+    "WinRate": 59.05,
+    "Total": 700,
+    "WinRank": 289,
+    "TotalRank": 7,
+    "WinDiff": -19.75,
+    "DiffRank": 654
+  },
+  {
+    "#": 270,
+    "WinRate": 89.26,
+    "Total": 680,
+    "WinRank": 48,
+    "TotalRank": 16,
+    "WinDiff": 11.99,
+    "DiffRank": 232
+  },
+  {
+    "#": 271,
+    "WinRate": 72.91,
+    "Total": 680,
+    "WinRank": 174,
+    "TotalRank": 16,
+    "WinDiff": -4.36,
+    "DiffRank": 456
+  },
+  {
+    "#": 272,
+    "WinRate": 82.15,
+    "Total": 600,
+    "WinRank": 93,
+    "TotalRank": 49,
+    "WinDiff": 9.75,
+    "DiffRank": 277
+  },
+  {
+    "#": 273,
+    "WinRate": 46.32,
+    "Total": 310,
+    "WinRank": 392,
+    "TotalRank": 644,
+    "WinDiff": 18.71,
+    "DiffRank": 170
+  },
+  {
+    "#": 274,
+    "WinRate": 71.41,
+    "Total": 405,
+    "WinRank": 184,
+    "TotalRank": 469,
+    "WinDiff": 26.03,
+    "DiffRank": 81
+  },
+  {
+    "#": 275,
+    "WinRate": 92.38,
+    "Total": 530,
+    "WinRank": 24,
+    "TotalRank": 149,
+    "WinDiff": 31.61,
+    "DiffRank": 40
+  },
+  {
+    "#": 276,
+    "WinRate": 98.88,
+    "Total": 630,
+    "WinRank": 2,
+    "TotalRank": 38,
+    "WinDiff": 24.4,
+    "DiffRank": 97
+  },
+  {
+    "#": 277,
+    "WinRate": 20.1,
+    "Total": 310,
+    "WinRank": 656,
+    "TotalRank": 644,
+    "WinDiff": -7.51,
+    "DiffRank": 510
+  },
+  {
+    "#": 278,
+    "WinRate": 34.08,
+    "Total": 405,
+    "WinRank": 498,
+    "TotalRank": 469,
+    "WinDiff": -11.3,
+    "DiffRank": 561
+  },
+  {
+    "#": 279,
+    "WinRate": 61.42,
+    "Total": 530,
+    "WinRank": 257,
+    "TotalRank": 149,
+    "WinDiff": 0.65,
+    "DiffRank": 400
+  },
+  {
+    "#": 280,
+    "WinRate": 80.9,
+    "Total": 630,
+    "WinRank": 106,
+    "TotalRank": 38,
+    "WinDiff": 6.42,
+    "DiffRank": 321
+  },
+  {
+    "#": 281,
+    "WinRate": 16.85,
+    "Total": 310,
+    "WinRank": 677,
+    "TotalRank": 644,
+    "WinDiff": -10.76,
+    "DiffRank": 553
+  },
+  {
+    "#": 282,
+    "WinRate": 27.84,
+    "Total": 405,
+    "WinRank": 564,
+    "TotalRank": 469,
+    "WinDiff": -17.54,
+    "DiffRank": 635
+  },
+  {
+    "#": 283,
+    "WinRate": 40.7,
+    "Total": 535,
+    "WinRank": 432,
+    "TotalRank": 135,
+    "WinDiff": -21.06,
+    "DiffRank": 674
+  },
+  {
+    "#": 284,
+    "WinRate": 52.68,
+    "Total": 635,
+    "WinRank": 337,
+    "TotalRank": 35,
+    "WinDiff": -22.03,
+    "DiffRank": 690
+  },
+  {
+    "#": 285,
+    "WinRate": 16.35,
+    "Total": 220,
+    "WinRank": 681,
+    "TotalRank": 778,
+    "WinDiff": 2.38,
+    "DiffRank": 371
+  },
+  {
+    "#": 286,
+    "WinRate": 55.18,
+    "Total": 420,
+    "WinRank": 317,
+    "TotalRank": 441,
+    "WinDiff": 7.9,
+    "DiffRank": 303
+  },
+  {
+    "#": 287,
+    "WinRate": 29.09,
+    "Total": 240,
+    "WinRank": 551,
+    "TotalRank": 772,
+    "WinDiff": 7.85,
+    "DiffRank": 305
+  },
+  {
+    "#": 288,
+    "WinRate": 75.78,
+    "Total": 420,
+    "WinRank": 158,
+    "TotalRank": 441,
+    "WinDiff": 28.5,
+    "DiffRank": 60
+  },
+  {
+    "#": 289,
+    "WinRate": 3.37,
+    "Total": 195,
+    "WinRank": 791,
+    "TotalRank": 797,
+    "WinDiff": -3.6,
+    "DiffRank": 446
+  },
+  {
+    "#": 290,
+    "WinRate": 2.37,
+    "Total": 205,
+    "WinRank": 796,
+    "TotalRank": 788,
+    "WinDiff": -5.73,
+    "DiffRank": 475
+  },
+  {
+    "#": 291,
+    "WinRate": 46.57,
+    "Total": 395,
+    "WinRank": 387,
+    "TotalRank": 501,
+    "WinDiff": 2.74,
+    "DiffRank": 369
+  },
+  {
+    "#": 292,
+    "WinRate": 2.37,
+    "Total": 205,
+    "WinRank": 796,
+    "TotalRank": 788,
+    "WinDiff": -5.73,
+    "DiffRank": 475
+  },
+  {
+    "#": 293,
+    "WinRate": 41.57,
+    "Total": 385,
+    "WinRank": 429,
+    "TotalRank": 515,
+    "WinDiff": -0.45,
+    "DiffRank": 414
+  },
+  {
+    "#": 294,
+    "WinRate": 8.74,
+    "Total": 220,
+    "WinRank": 751,
+    "TotalRank": 778,
+    "WinDiff": -5.23,
+    "DiffRank": 472
+  },
+  {
+    "#": 295,
+    "WinRate": 28.59,
+    "Total": 340,
+    "WinRank": 557,
+    "TotalRank": 572,
+    "WinDiff": -3.79,
+    "DiffRank": 447
+  },
+  {
+    "#": 296,
+    "WinRate": 53.31,
+    "Total": 480,
+    "WinRank": 331,
+    "TotalRank": 320,
+    "WinDiff": 0.52,
+    "DiffRank": 402
+  },
+  {
+    "#": 297,
+    "WinRate": 10.11,
+    "Total": 220,
+    "WinRank": 745,
+    "TotalRank": 778,
+    "WinDiff": -3.86,
+    "DiffRank": 448
+  },
+  {
+    "#": 298,
+    "WinRate": 42.32,
+    "Total": 340,
+    "WinRank": 421,
+    "TotalRank": 572,
+    "WinDiff": 9.94,
+    "DiffRank": 275
+  },
+  {
+    "#": 299,
+    "WinRate": 65.04,
+    "Total": 480,
+    "WinRank": 228,
+    "TotalRank": 320,
+    "WinDiff": 12.25,
+    "DiffRank": 229
+  },
+  {
+    "#": 300,
+    "WinRate": 61.92,
+    "Total": 270,
+    "WinRank": 250,
+    "TotalRank": 743,
+    "WinDiff": 36.46,
+    "DiffRank": 14
+  },
+  {
+    "#": 301,
+    "WinRate": 90.51,
+    "Total": 430,
+    "WinRank": 41,
+    "TotalRank": 424,
+    "WinDiff": 42.22,
+    "DiffRank": 5
+  },
+  {
+    "#": 302,
+    "WinRate": 52.81,
+    "Total": 270,
+    "WinRank": 336,
+    "TotalRank": 743,
+    "WinDiff": 27.35,
+    "DiffRank": 70
+  },
+  {
+    "#": 303,
+    "WinRate": 46.19,
+    "Total": 430,
+    "WinRank": 395,
+    "TotalRank": 424,
+    "WinDiff": -2.1,
+    "DiffRank": 440
+  },
+  {
+    "#": 304,
+    "WinRate": 14.11,
+    "Total": 198,
+    "WinRank": 714,
+    "TotalRank": 796,
+    "WinDiff": 7.25,
+    "DiffRank": 313
+  },
+  {
+    "#": 305,
+    "WinRate": 24.22,
+    "Total": 278,
+    "WinRank": 606,
+    "TotalRank": 735,
+    "WinDiff": -1.56,
+    "DiffRank": 434
+  },
+  {
+    "#": 306,
+    "WinRate": 60.3,
+    "Total": 518,
+    "WinRank": 272,
+    "TotalRank": 194,
+    "WinDiff": 1.82,
+    "DiffRank": 380
+  },
+  {
+    "#": 307,
+    "WinRate": 79.65,
+    "Total": 618,
+    "WinRank": 118,
+    "TotalRank": 44,
+    "WinDiff": 5.83,
+    "DiffRank": 330
+  },
+  {
+    "#": 308,
+    "WinRate": 35.46,
+    "Total": 269,
+    "WinRank": 490,
+    "TotalRank": 746,
+    "WinDiff": 10.05,
+    "DiffRank": 270
+  },
+  {
+    "#": 309,
+    "WinRate": 38.83,
+    "Total": 414,
+    "WinRank": 455,
+    "TotalRank": 453,
+    "WinDiff": -7.75,
+    "DiffRank": 514
+  },
+  {
+    "#": 310,
+    "WinRate": 13.61,
+    "Total": 295,
+    "WinRank": 717,
+    "TotalRank": 702,
+    "WinDiff": -12.83,
+    "DiffRank": 586
+  },
+  {
+    "#": 311,
+    "WinRate": 55.43,
+    "Total": 460,
+    "WinRank": 314,
+    "TotalRank": 374,
+    "WinDiff": 4.61,
+    "DiffRank": 345
+  },
+  {
+    "#": 312,
+    "WinRate": 7.74,
+    "Total": 280,
+    "WinRank": 758,
+    "TotalRank": 728,
+    "WinDiff": -18.11,
+    "DiffRank": 640
+  },
+  {
+    "#": 313,
+    "WinRate": 67.92,
+    "Total": 440,
+    "WinRank": 210,
+    "TotalRank": 411,
+    "WinDiff": 18.75,
+    "DiffRank": 169
+  },
+  {
+    "#": 314,
+    "WinRate": 77.78,
+    "Total": 670,
+    "WinRank": 137,
+    "TotalRank": 29,
+    "WinDiff": 1.24,
+    "DiffRank": 390
+  },
+  {
+    "#": 315,
+    "WinRate": 14.86,
+    "Total": 266,
+    "WinRank": 705,
+    "TotalRank": 747,
+    "WinDiff": -10.38,
+    "DiffRank": 548
+  },
+  {
+    "#": 316,
+    "WinRate": 94.01,
+    "Total": 456,
+    "WinRank": 16,
+    "TotalRank": 386,
+    "WinDiff": 43.52,
+    "DiffRank": 3
+  },
+  {
+    "#": 317,
+    "WinRate": 11.99,
+    "Total": 236,
+    "WinRank": 732,
+    "TotalRank": 776,
+    "WinDiff": -8.08,
+    "DiffRank": 517
+  },
+  {
+    "#": 318,
+    "WinRate": 5.87,
+    "Total": 240,
+    "WinRank": 773,
+    "TotalRank": 772,
+    "WinDiff": -15.37,
+    "DiffRank": 619
+  },
+  {
+    "#": 319,
+    "WinRate": 24.72,
+    "Total": 360,
+    "WinRank": 602,
+    "TotalRank": 541,
+    "WinDiff": -12.01,
+    "DiffRank": 572
+  },
+  {
+    "#": 320,
+    "WinRate": 48.44,
+    "Total": 490,
+    "WinRank": 377,
+    "TotalRank": 277,
+    "WinDiff": -5.58,
+    "DiffRank": 474
+  },
+  {
+    "#": 321,
+    "WinRate": 6.74,
+    "Total": 237,
+    "WinRank": 768,
+    "TotalRank": 774,
+    "WinDiff": -13.64,
+    "DiffRank": 602
+  },
+  {
+    "#": 322,
+    "WinRate": 30.96,
+    "Total": 474,
+    "WinRank": 536,
+    "TotalRank": 344,
+    "WinDiff": -21.18,
+    "DiffRank": 677
+  },
+  {
+    "#": 323,
+    "WinRate": 2.37,
+    "Total": 190,
+    "WinRank": 796,
+    "TotalRank": 801,
+    "WinDiff": -6.05,
+    "DiffRank": 484
+  },
+  {
+    "#": 324,
+    "WinRate": 5.87,
+    "Total": 375,
+    "WinRank": 773,
+    "TotalRank": 527,
+    "WinDiff": -34.14,
+    "DiffRank": 763
+  },
+  {
+    "#": 325,
+    "WinRate": 24.34,
+    "Total": 260,
+    "WinRank": 605,
+    "TotalRank": 754,
+    "WinDiff": -0.42,
+    "DiffRank": 413
+  },
+  {
+    "#": 326,
+    "WinRate": 48.56,
+    "Total": 380,
+    "WinRank": 375,
+    "TotalRank": 522,
+    "WinDiff": 7.52,
+    "DiffRank": 311
+  },
+  {
+    "#": 327,
+    "WinRate": 18.98,
+    "Total": 380,
+    "WinRank": 665,
+    "TotalRank": 522,
+    "WinDiff": -22.06,
+    "DiffRank": 692
+  },
+  {
+    "#": 328,
+    "WinRate": 12.23,
+    "Total": 480,
+    "WinRank": 727,
+    "TotalRank": 320,
+    "WinDiff": -40.56,
+    "DiffRank": 785
+  },
+  {
+    "#": 329,
+    "WinRate": 28.21,
+    "Total": 380,
+    "WinRank": 560,
+    "TotalRank": 522,
+    "WinDiff": -12.83,
+    "DiffRank": 586
+  },
+  {
+    "#": 330,
+    "WinRate": 29.96,
+    "Total": 480,
+    "WinRank": 547,
+    "TotalRank": 320,
+    "WinDiff": -22.83,
+    "DiffRank": 699
+  },
+  {
+    "#": 331,
+    "WinRate": 15.23,
+    "Total": 330,
+    "WinRank": 699,
+    "TotalRank": 591,
+    "WinDiff": -15.23,
+    "DiffRank": 617
+  },
+  {
+    "#": 332,
+    "WinRate": 23.22,
+    "Total": 430,
+    "WinRank": 612,
+    "TotalRank": 424,
+    "WinDiff": -25.07,
+    "DiffRank": 718
+  },
+  {
+    "#": 333,
+    "WinRate": 33.08,
+    "Total": 530,
+    "WinRank": 510,
+    "TotalRank": 149,
+    "WinDiff": -27.69,
+    "DiffRank": 736
+  },
+  {
+    "#": 334,
+    "WinRate": 34.46,
+    "Total": 630,
+    "WinRank": 495,
+    "TotalRank": 38,
+    "WinDiff": -40.02,
+    "DiffRank": 783
+  },
+  {
+    "#": 335,
+    "WinRate": 36.33,
+    "Total": 280,
+    "WinRank": 486,
+    "TotalRank": 728,
+    "WinDiff": 10.48,
+    "DiffRank": 262
+  },
+  {
+    "#": 336,
+    "WinRate": 57.55,
+    "Total": 410,
+    "WinRank": 299,
+    "TotalRank": 459,
+    "WinDiff": 11.48,
+    "DiffRank": 241
+  },
+  {
+    "#": 337,
+    "WinRate": 78.28,
+    "Total": 510,
+    "WinRank": 131,
+    "TotalRank": 205,
+    "WinDiff": 21.22,
+    "DiffRank": 133
+  },
+  {
+    "#": 338,
+    "WinRate": 40.2,
+    "Total": 295,
+    "WinRank": 439,
+    "TotalRank": 702,
+    "WinDiff": 13.76,
+    "DiffRank": 212
+  },
+  {
+    "#": 339,
+    "WinRate": 82.65,
+    "Total": 475,
+    "WinRank": 90,
+    "TotalRank": 337,
+    "WinDiff": 30.41,
+    "DiffRank": 43
+  },
+  {
+    "#": 340,
+    "WinRate": 91.64,
+    "Total": 575,
+    "WinRank": 33,
+    "TotalRank": 115,
+    "WinDiff": 22.43,
+    "DiffRank": 119
+  },
+  {
+    "#": 341,
+    "WinRate": 68.41,
+    "Total": 405,
+    "WinRank": 200,
+    "TotalRank": 469,
+    "WinDiff": 23.03,
+    "DiffRank": 115
+  },
+  {
+    "#": 342,
+    "WinRate": 64.54,
+    "Total": 405,
+    "WinRank": 235,
+    "TotalRank": 469,
+    "WinDiff": 19.16,
+    "DiffRank": 156
+  },
+  {
+    "#": 343,
+    "WinRate": 65.04,
+    "Total": 400,
+    "WinRank": 228,
+    "TotalRank": 496,
+    "WinDiff": 20.4,
+    "DiffRank": 145
+  },
+  {
+    "#": 344,
+    "WinRate": 59.93,
+    "Total": 400,
+    "WinRank": 275,
+    "TotalRank": 496,
+    "WinDiff": 15.29,
+    "DiffRank": 201
+  },
+  {
+    "#": 345,
+    "WinRate": 42.32,
+    "Total": 400,
+    "WinRank": 421,
+    "TotalRank": 496,
+    "WinDiff": -2.32,
+    "DiffRank": 441
+  },
+  {
+    "#": 346,
+    "WinRate": 14.48,
+    "Total": 302,
+    "WinRank": 709,
+    "TotalRank": 681,
+    "WinDiff": -12.41,
+    "DiffRank": 579
+  },
+  {
+    "#": 347,
+    "WinRate": 32.33,
+    "Total": 467,
+    "WinRank": 525,
+    "TotalRank": 360,
+    "WinDiff": -19.12,
+    "DiffRank": 645
+  },
+  {
+    "#": 348,
+    "WinRate": 48.94,
+    "Total": 305,
+    "WinRank": 370,
+    "TotalRank": 664,
+    "WinDiff": 21.81,
+    "DiffRank": 130
+  },
+  {
+    "#": 349,
+    "WinRate": 79.15,
+    "Total": 460,
+    "WinRank": 124,
+    "TotalRank": 374,
+    "WinDiff": 28.33,
+    "DiffRank": 65
+  },
+  {
+    "#": 350,
+    "WinRate": 88.89,
+    "Total": 560,
+    "WinRank": 52,
+    "TotalRank": 118,
+    "WinDiff": 22.26,
+    "DiffRank": 123
+  },
+  {
+    "#": 351,
+    "WinRate": 38.83,
+    "Total": 400,
+    "WinRank": 455,
+    "TotalRank": 496,
+    "WinDiff": -5.81,
+    "DiffRank": 479
+  },
+  {
+    "#": 352,
+    "WinRate": 39.95,
+    "Total": 500,
+    "WinRank": 441,
+    "TotalRank": 227,
+    "WinDiff": -15.49,
+    "DiffRank": 623
+  },
+  {
+    "#": 353,
+    "WinRate": 14.48,
+    "Total": 305,
+    "WinRank": 709,
+    "TotalRank": 664,
+    "WinDiff": -12.65,
+    "DiffRank": 583
+  },
+  {
+    "#": 354,
+    "WinRate": 22.97,
+    "Total": 460,
+    "WinRank": 615,
+    "TotalRank": 374,
+    "WinDiff": -27.85,
+    "DiffRank": 738
+  },
+  {
+    "#": 355,
+    "WinRate": 28.96,
+    "Total": 560,
+    "WinRank": 553,
+    "TotalRank": 118,
+    "WinDiff": -37.67,
+    "DiffRank": 771
+  },
+  {
+    "#": 356,
+    "WinRate": 21.47,
+    "Total": 470,
+    "WinRank": 625,
+    "TotalRank": 352,
+    "WinDiff": -30.27,
+    "DiffRank": 747
+  },
+  {
+    "#": 357,
+    "WinRate": 31.71,
+    "Total": 330,
+    "WinRank": 530,
+    "TotalRank": 591,
+    "WinDiff": 1.25,
+    "DiffRank": 389
+  },
+  {
+    "#": 358,
+    "WinRate": 56.05,
+    "Total": 470,
+    "WinRank": 311,
+    "TotalRank": 352,
+    "WinDiff": 4.31,
+    "DiffRank": 348
+  },
+  {
+    "#": 359,
+    "WinRate": 35.71,
+    "Total": 360,
+    "WinRank": 489,
+    "TotalRank": 541,
+    "WinDiff": -1.02,
+    "DiffRank": 423
+  },
+  {
+    "#": 360,
+    "WinRate": 26.97,
+    "Total": 290,
+    "WinRank": 577,
+    "TotalRank": 712,
+    "WinDiff": 0.76,
+    "DiffRank": 396
+  },
+  {
+    "#": 361,
+    "WinRate": 51.31,
+    "Total": 340,
+    "WinRank": 349,
+    "TotalRank": 572,
+    "WinDiff": 18.93,
+    "DiffRank": 162
+  },
+  {
+    "#": 362,
+    "WinRate": 77.78,
+    "Total": 520,
+    "WinRank": 137,
+    "TotalRank": 181,
+    "WinDiff": 18.93,
+    "DiffRank": 162
+  },
+  {
+    "#": 363,
+    "WinRate": 15.86,
+    "Total": 335,
+    "WinRank": 690,
+    "TotalRank": 581,
+    "WinDiff": -15.53,
+    "DiffRank": 624
+  },
+  {
+    "#": 364,
+    "WinRate": 39.2,
+    "Total": 475,
+    "WinRank": 449,
+    "TotalRank": 337,
+    "WinDiff": -13.04,
+    "DiffRank": 593
+  },
+  {
+    "#": 365,
+    "WinRate": 25.72,
+    "Total": 310,
+    "WinRank": 594,
+    "TotalRank": 644,
+    "WinDiff": -1.89,
+    "DiffRank": 438
+  },
+  {
+    "#": 366,
+    "WinRate": 61.17,
+    "Total": 490,
+    "WinRank": 264,
+    "TotalRank": 277,
+    "WinDiff": 7.15,
+    "DiffRank": 316
+  },
+  {
+    "#": 367,
+    "WinRate": 61.67,
+    "Total": 590,
+    "WinRank": 251,
+    "TotalRank": 87,
+    "WinDiff": -9.63,
+    "DiffRank": 538
+  },
+  {
+    "#": 368,
+    "WinRate": 68.41,
+    "Total": 458,
+    "WinRank": 200,
+    "TotalRank": 384,
+    "WinDiff": 17.76,
+    "DiffRank": 177
+  },
+  {
+    "#": 369,
+    "WinRate": 44.19,
+    "Total": 458,
+    "WinRank": 406,
+    "TotalRank": 384,
+    "WinDiff": -6.46,
+    "DiffRank": 491
+  },
+  {
+    "#": 370,
+    "WinRate": 50.69,
+    "Total": 440,
+    "WinRank": 352,
+    "TotalRank": 411,
+    "WinDiff": 1.52,
+    "DiffRank": 385
+  },
+  {
+    "#": 371,
+    "WinRate": 53.06,
+    "Total": 440,
+    "WinRank": 334,
+    "TotalRank": 411,
+    "WinDiff": 3.89,
+    "DiffRank": 352
+  },
+  {
+    "#": 372,
+    "WinRate": 36.83,
+    "Total": 288,
+    "WinRank": 479,
+    "TotalRank": 720,
+    "WinDiff": 10.7,
+    "DiffRank": 251
+  },
+  {
+    "#": 373,
+    "WinRate": 38.58,
+    "Total": 468,
+    "WinRank": 461,
+    "TotalRank": 358,
+    "WinDiff": -12.97,
+    "DiffRank": 591
+  },
+  {
+    "#": 374,
+    "WinRate": 14.36,
+    "Total": 308,
+    "WinRank": 712,
+    "TotalRank": 658,
+    "WinDiff": -13.05,
+    "DiffRank": 594
+  },
+  {
+    "#": 375,
+    "WinRate": 38.83,
+    "Total": 468,
+    "WinRank": 455,
+    "TotalRank": 358,
+    "WinDiff": -12.72,
+    "DiffRank": 585
+  },
+  {
+    "#": 376,
+    "WinRate": 32.33,
+    "Total": 300,
+    "WinRank": 525,
+    "TotalRank": 682,
+    "WinDiff": 5.58,
+    "DiffRank": 334
+  },
+  {
+    "#": 377,
+    "WinRate": 57.55,
+    "Total": 500,
+    "WinRank": 299,
+    "TotalRank": 227,
+    "WinDiff": 2.11,
+    "DiffRank": 376
+  },
+  {
+    "#": 378,
+    "WinRate": 4.37,
+    "Total": 355,
+    "WinRank": 783,
+    "TotalRank": 548,
+    "WinDiff": -31.24,
+    "DiffRank": 749
+  },
+  {
+    "#": 379,
+    "WinRate": 23.22,
+    "Total": 495,
+    "WinRank": 612,
+    "TotalRank": 256,
+    "WinDiff": -31.48,
+    "DiffRank": 753
+  },
+  {
+    "#": 380,
+    "WinRate": 59.18,
+    "Total": 355,
+    "WinRank": 284,
+    "TotalRank": 548,
+    "WinDiff": 23.57,
+    "DiffRank": 107
+  },
+  {
+    "#": 381,
+    "WinRate": 32.71,
+    "Total": 495,
+    "WinRank": 519,
+    "TotalRank": 256,
+    "WinDiff": -21.99,
+    "DiffRank": 689
+  },
+  {
+    "#": 382,
+    "WinRate": 20.47,
+    "Total": 200,
+    "WinRank": 650,
+    "TotalRank": 793,
+    "WinDiff": 13.44,
+    "DiffRank": 216
+  },
+  {
+    "#": 383,
+    "WinRate": 61.67,
+    "Total": 540,
+    "WinRank": 251,
+    "TotalRank": 126,
+    "WinDiff": -1.08,
+    "DiffRank": 424
+  },
+  {
+    "#": 384,
+    "WinRate": 48.94,
+    "Total": 420,
+    "WinRank": 370,
+    "TotalRank": 441,
+    "WinDiff": 1.66,
+    "DiffRank": 382
+  },
+  {
+    "#": 385,
+    "WinRate": 16.1,
+    "Total": 440,
+    "WinRank": 687,
+    "TotalRank": 411,
+    "WinDiff": -33.07,
+    "DiffRank": 760
+  },
+  {
+    "#": 386,
+    "WinRate": 20.47,
+    "Total": 295,
+    "WinRank": 650,
+    "TotalRank": 702,
+    "WinDiff": -5.97,
+    "DiffRank": 481
+  },
+  {
+    "#": 387,
+    "WinRate": 40.45,
+    "Total": 455,
+    "WinRank": 434,
+    "TotalRank": 387,
+    "WinDiff": -9.95,
+    "DiffRank": 543
+  },
+  {
+    "#": 388,
+    "WinRate": 52.56,
+    "Total": 555,
+    "WinRank": 340,
+    "TotalRank": 120,
+    "WinDiff": -13.13,
+    "DiffRank": 595
+  },
+  {
+    "#": 389,
+    "WinRate": 4.12,
+    "Total": 295,
+    "WinRank": 786,
+    "TotalRank": 702,
+    "WinDiff": -22.32,
+    "DiffRank": 696
+  },
+  {
+    "#": 390,
+    "WinRate": 5.37,
+    "Total": 455,
+    "WinRank": 779,
+    "TotalRank": 387,
+    "WinDiff": -45.03,
+    "DiffRank": 794
+  },
+  {
+    "#": 391,
+    "WinRate": 33.46,
+    "Total": 460,
+    "WinRank": 505,
+    "TotalRank": 374,
+    "WinDiff": -17.36,
+    "DiffRank": 632
+  },
+  {
+    "#": 392,
+    "WinRate": 42.95,
+    "Total": 425,
+    "WinRank": 416,
+    "TotalRank": 432,
+    "WinDiff": -4.86,
+    "DiffRank": 465
+  },
+  {
+    "#": 393,
+    "WinRate": 62.42,
+    "Total": 465,
+    "WinRank": 245,
+    "TotalRank": 363,
+    "WinDiff": 11.15,
+    "DiffRank": 245
+  },
+  {
+    "#": 394,
+    "WinRate": 92.88,
+    "Total": 565,
+    "WinRank": 21,
+    "TotalRank": 117,
+    "WinDiff": 25.35,
+    "DiffRank": 86
+  },
+  {
+    "#": 395,
+    "WinRate": 4,
+    "Total": 260,
+    "WinRank": 788,
+    "TotalRank": 754,
+    "WinDiff": -20.76,
+    "DiffRank": 668
+  },
+  {
+    "#": 396,
+    "WinRate": 26.59,
+    "Total": 300,
+    "WinRank": 581,
+    "TotalRank": 682,
+    "WinDiff": -0.16,
+    "DiffRank": 411
+  },
+  {
+    "#": 397,
+    "WinRate": 61.55,
+    "Total": 480,
+    "WinRank": 253,
+    "TotalRank": 320,
+    "WinDiff": 8.76,
+    "DiffRank": 289
+  },
+  {
+    "#": 398,
+    "WinRate": 81.65,
+    "Total": 580,
+    "WinRank": 99,
+    "TotalRank": 91,
+    "WinDiff": 11.69,
+    "DiffRank": 233
+  },
+  {
+    "#": 399,
+    "WinRate": 5.37,
+    "Total": 290,
+    "WinRank": 779,
+    "TotalRank": 712,
+    "WinDiff": -20.84,
+    "DiffRank": 669
+  },
+  {
+    "#": 400,
+    "WinRate": 22.85,
+    "Total": 410,
+    "WinRank": 616,
+    "TotalRank": 459,
+    "WinDiff": -23.22,
+    "DiffRank": 705
+  },
+  {
+    "#": 401,
+    "WinRate": 46.94,
+    "Total": 530,
+    "WinRank": 384,
+    "TotalRank": 149,
+    "WinDiff": -13.83,
+    "DiffRank": 604
+  },
+  {
+    "#": 402,
+    "WinRate": 11.49,
+    "Total": 345,
+    "WinRank": 737,
+    "TotalRank": 567,
+    "WinDiff": -21.93,
+    "DiffRank": 687
+  },
+  {
+    "#": 403,
+    "WinRate": 33.33,
+    "Total": 485,
+    "WinRank": 507,
+    "TotalRank": 299,
+    "WinDiff": -20.05,
+    "DiffRank": 661
+  },
+  {
+    "#": 404,
+    "WinRate": 32.96,
+    "Total": 485,
+    "WinRank": 511,
+    "TotalRank": 299,
+    "WinDiff": -20.42,
+    "DiffRank": 664
+  },
+  {
+    "#": 405,
+    "WinRate": 36.83,
+    "Total": 485,
+    "WinRank": 479,
+    "TotalRank": 299,
+    "WinDiff": -16.55,
+    "DiffRank": 627
+  },
+  {
+    "#": 406,
+    "WinRate": 49.31,
+    "Total": 330,
+    "WinRank": 367,
+    "TotalRank": 591,
+    "WinDiff": 18.85,
+    "DiffRank": 165
+  },
+  {
+    "#": 407,
+    "WinRate": 26.97,
+    "Total": 300,
+    "WinRank": 577,
+    "TotalRank": 682,
+    "WinDiff": 0.22,
+    "DiffRank": 406
+  },
+  {
+    "#": 408,
+    "WinRate": 27.47,
+    "Total": 420,
+    "WinRank": 569,
+    "TotalRank": 441,
+    "WinDiff": -19.81,
+    "DiffRank": 655
+  },
+  {
+    "#": 409,
+    "WinRate": 80.65,
+    "Total": 600,
+    "WinRank": 110,
+    "TotalRank": 49,
+    "WinDiff": 8.25,
+    "DiffRank": 297
+  },
+  {
+    "#": 410,
+    "WinRate": 94.13,
+    "Total": 700,
+    "WinRank": 15,
+    "TotalRank": 7,
+    "WinDiff": 15.33,
+    "DiffRank": 199
+  },
+  {
+    "#": 411,
+    "WinRate": 7.49,
+    "Total": 300,
+    "WinRank": 761,
+    "TotalRank": 682,
+    "WinDiff": -19.26,
+    "DiffRank": 646
+  },
+  {
+    "#": 412,
+    "WinRate": 27.47,
+    "Total": 420,
+    "WinRank": 569,
+    "TotalRank": 441,
+    "WinDiff": -19.81,
+    "DiffRank": 655
+  },
+  {
+    "#": 413,
+    "WinRate": 52.93,
+    "Total": 600,
+    "WinRank": 335,
+    "TotalRank": 49,
+    "WinDiff": -19.47,
+    "DiffRank": 650
+  },
+  {
+    "#": 414,
+    "WinRate": 89.39,
+    "Total": 700,
+    "WinRank": 47,
+    "TotalRank": 7,
+    "WinDiff": 10.59,
+    "DiffRank": 256
+  },
+  {
+    "#": 415,
+    "WinRate": 28.71,
+    "Total": 580,
+    "WinRank": 555,
+    "TotalRank": 91,
+    "WinDiff": -41.25,
+    "DiffRank": 788
+  },
+  {
+    "#": 416,
+    "WinRate": 25.72,
+    "Total": 580,
+    "WinRank": 594,
+    "TotalRank": 91,
+    "WinDiff": -44.24,
+    "DiffRank": 792
+  },
+  {
+    "#": 417,
+    "WinRate": 26.34,
+    "Total": 580,
+    "WinRank": 586,
+    "TotalRank": 91,
+    "WinDiff": -43.62,
+    "DiffRank": 790
+  },
+  {
+    "#": 418,
+    "WinRate": 88.14,
+    "Total": 600,
+    "WinRank": 58,
+    "TotalRank": 49,
+    "WinDiff": 15.74,
+    "DiffRank": 194
+  },
+  {
+    "#": 419,
+    "WinRate": 87.02,
+    "Total": 700,
+    "WinRank": 67,
+    "TotalRank": 7,
+    "WinDiff": 8.22,
+    "DiffRank": 299
+  },
+  {
+    "#": 420,
+    "WinRate": 88.14,
+    "Total": 600,
+    "WinRank": 58,
+    "TotalRank": 49,
+    "WinDiff": 15.74,
+    "DiffRank": 194
+  },
+  {
+    "#": 421,
+    "WinRate": 86.02,
+    "Total": 700,
+    "WinRank": 73,
+    "TotalRank": 7,
+    "WinDiff": 7.22,
+    "DiffRank": 315
+  },
+  {
+    "#": 422,
+    "WinRate": 71.66,
+    "Total": 670,
+    "WinRank": 183,
+    "TotalRank": 29,
+    "WinDiff": -4.88,
+    "DiffRank": 466
+  },
+  {
+    "#": 423,
+    "WinRate": 72.41,
+    "Total": 770,
+    "WinRank": 178,
+    "TotalRank": 4,
+    "WinDiff": -10.13,
+    "DiffRank": 546
+  },
+  {
+    "#": 424,
+    "WinRate": 72.28,
+    "Total": 670,
+    "WinRank": 180,
+    "TotalRank": 29,
+    "WinDiff": -4.26,
+    "DiffRank": 455
+  },
+  {
+    "#": 425,
+    "WinRate": 73.66,
+    "Total": 770,
+    "WinRank": 168,
+    "TotalRank": 4,
+    "WinDiff": -8.88,
+    "DiffRank": 527
+  },
+  {
+    "#": 426,
+    "WinRate": 76.15,
+    "Total": 680,
+    "WinRank": 155,
+    "TotalRank": 16,
+    "WinDiff": -1.12,
+    "DiffRank": 426
+  },
+  {
+    "#": 427,
+    "WinRate": 91.89,
+    "Total": 780,
+    "WinRank": 28,
+    "TotalRank": 1,
+    "WinDiff": 1.85,
+    "DiffRank": 379
+  },
+  {
+    "#": 428,
+    "WinRate": 81.9,
+    "Total": 600,
+    "WinRank": 98,
+    "TotalRank": 49,
+    "WinDiff": 9.5,
+    "DiffRank": 282
+  },
+  {
+    "#": 429,
+    "WinRate": 95.51,
+    "Total": 600,
+    "WinRank": 11,
+    "TotalRank": 49,
+    "WinDiff": 23.11,
+    "DiffRank": 114
+  },
+  {
+    "#": 430,
+    "WinRate": 96.13,
+    "Total": 600,
+    "WinRank": 9,
+    "TotalRank": 49,
+    "WinDiff": 23.73,
+    "DiffRank": 105
+  },
+  {
+    "#": 431,
+    "WinRate": 67.67,
+    "Total": 600,
+    "WinRank": 211,
+    "TotalRank": 49,
+    "WinDiff": -4.73,
+    "DiffRank": 461
+  },
+  {
+    "#": 432,
+    "WinRate": 93.38,
+    "Total": 600,
+    "WinRank": 18,
+    "TotalRank": 49,
+    "WinDiff": 20.98,
+    "DiffRank": 138
+  },
+  {
+    "#": 433,
+    "WinRate": 13.23,
+    "Total": 318,
+    "WinRank": 718,
+    "TotalRank": 629,
+    "WinDiff": -15.34,
+    "DiffRank": 618
+  },
+  {
+    "#": 434,
+    "WinRate": 19.98,
+    "Total": 405,
+    "WinRank": 657,
+    "TotalRank": 469,
+    "WinDiff": -25.4,
+    "DiffRank": 721
+  },
+  {
+    "#": 435,
+    "WinRate": 40.32,
+    "Total": 525,
+    "WinRank": 437,
+    "TotalRank": 162,
+    "WinDiff": -19.48,
+    "DiffRank": 651
+  },
+  {
+    "#": 436,
+    "WinRate": 39.2,
+    "Total": 309,
+    "WinRank": 449,
+    "TotalRank": 654,
+    "WinDiff": 11.69,
+    "DiffRank": 233
+  },
+  {
+    "#": 437,
+    "WinRate": 64.42,
+    "Total": 405,
+    "WinRank": 236,
+    "TotalRank": 469,
+    "WinDiff": 19.04,
+    "DiffRank": 161
+  },
+  {
+    "#": 438,
+    "WinRate": 88.39,
+    "Total": 534,
+    "WinRank": 56,
+    "TotalRank": 144,
+    "WinDiff": 26.83,
+    "DiffRank": 73
+  },
+  {
+    "#": 439,
+    "WinRate": 15.98,
+    "Total": 314,
+    "WinRank": 689,
+    "TotalRank": 638,
+    "WinDiff": -12.08,
+    "DiffRank": 574
+  },
+  {
+    "#": 440,
+    "WinRate": 27.09,
+    "Total": 405,
+    "WinRank": 573,
+    "TotalRank": 469,
+    "WinDiff": -18.29,
+    "DiffRank": 641
+  },
+  {
+    "#": 441,
+    "WinRate": 40.45,
+    "Total": 530,
+    "WinRank": 434,
+    "TotalRank": 149,
+    "WinDiff": -20.32,
+    "DiffRank": 663
+  },
+  {
+    "#": 442,
+    "WinRate": 38.45,
+    "Total": 245,
+    "WinRank": 464,
+    "TotalRank": 767,
+    "WinDiff": 15.99,
+    "DiffRank": 189
+  },
+  {
+    "#": 443,
+    "WinRate": 60.55,
+    "Total": 340,
+    "WinRank": 271,
+    "TotalRank": 572,
+    "WinDiff": 28.17,
+    "DiffRank": 68
+  },
+  {
+    "#": 444,
+    "WinRate": 80.02,
+    "Total": 485,
+    "WinRank": 114,
+    "TotalRank": 299,
+    "WinDiff": 26.64,
+    "DiffRank": 76
+  },
+  {
+    "#": 445,
+    "WinRate": 9.74,
+    "Total": 250,
+    "WinRank": 748,
+    "TotalRank": 760,
+    "WinDiff": -13.7,
+    "DiffRank": 603
+  },
+  {
+    "#": 446,
+    "WinRate": 54.31,
+    "Total": 410,
+    "WinRank": 325,
+    "TotalRank": 459,
+    "WinDiff": 8.24,
+    "DiffRank": 298
+  },
+  {
+    "#": 447,
+    "WinRate": 2.87,
+    "Total": 194,
+    "WinRank": 793,
+    "TotalRank": 800,
+    "WinDiff": -4.25,
+    "DiffRank": 454
+  },
+  {
+    "#": 448,
+    "WinRate": 45.94,
+    "Total": 384,
+    "WinRank": 397,
+    "TotalRank": 519,
+    "WinDiff": 4.11,
+    "DiffRank": 349
+  },
+  {
+    "#": 449,
+    "WinRate": 22.6,
+    "Total": 263,
+    "WinRank": 617,
+    "TotalRank": 751,
+    "WinDiff": -2.42,
+    "DiffRank": 442
+  },
+  {
+    "#": 450,
+    "WinRate": 39.7,
+    "Total": 363,
+    "WinRank": 444,
+    "TotalRank": 538,
+    "WinDiff": 2.3,
+    "DiffRank": 374
+  },
+  {
+    "#": 451,
+    "WinRate": 50.69,
+    "Total": 523,
+    "WinRank": 352,
+    "TotalRank": 178,
+    "WinDiff": -8.73,
+    "DiffRank": 525
+  },
+  {
+    "#": 452,
+    "WinRate": 27.09,
+    "Total": 280,
+    "WinRank": 573,
+    "TotalRank": 728,
+    "WinDiff": 1.24,
+    "DiffRank": 390
+  },
+  {
+    "#": 453,
+    "WinRate": 68.16,
+    "Total": 515,
+    "WinRank": 204,
+    "TotalRank": 196,
+    "WinDiff": 10.22,
+    "DiffRank": 268
+  },
+  {
+    "#": 454,
+    "WinRate": 39.58,
+    "Total": 350,
+    "WinRank": 446,
+    "TotalRank": 556,
+    "WinDiff": 5.07,
+    "DiffRank": 339
+  },
+  {
+    "#": 455,
+    "WinRate": 44.94,
+    "Total": 495,
+    "WinRank": 403,
+    "TotalRank": 256,
+    "WinDiff": -9.76,
+    "DiffRank": 540
+  },
+  {
+    "#": 456,
+    "WinRate": 6.99,
+    "Total": 350,
+    "WinRank": 766,
+    "TotalRank": 556,
+    "WinDiff": -27.52,
+    "DiffRank": 733
+  },
+  {
+    "#": 457,
+    "WinRate": 8.11,
+    "Total": 495,
+    "WinRank": 754,
+    "TotalRank": 256,
+    "WinDiff": -46.59,
+    "DiffRank": 798
+  },
+  {
+    "#": 458,
+    "WinRate": 10.86,
+    "Total": 224,
+    "WinRank": 741,
+    "TotalRank": 777,
+    "WinDiff": -4.8,
+    "DiffRank": 463
+  },
+  {
+    "#": 459,
+    "WinRate": 15.48,
+    "Total": 424,
+    "WinRank": 696,
+    "TotalRank": 436,
+    "WinDiff": -32.22,
+    "DiffRank": 757
+  },
+  {
+    "#": 460,
+    "WinRate": 15.86,
+    "Total": 424,
+    "WinRank": 690,
+    "TotalRank": 436,
+    "WinDiff": -31.84,
+    "DiffRank": 754
+  },
+  {
+    "#": 461,
+    "WinRate": 15.11,
+    "Total": 424,
+    "WinRank": 701,
+    "TotalRank": 436,
+    "WinDiff": -32.59,
+    "DiffRank": 759
+  },
+  {
+    "#": 462,
+    "WinRate": 50.06,
+    "Total": 424,
+    "WinRank": 360,
+    "TotalRank": 436,
+    "WinDiff": 2.36,
+    "DiffRank": 372
+  },
+  {
+    "#": 463,
+    "WinRate": 39.83,
+    "Total": 244,
+    "WinRank": 443,
+    "TotalRank": 771,
+    "WinDiff": 17.59,
+    "DiffRank": 179
+  },
+  {
+    "#": 464,
+    "WinRate": 17.6,
+    "Total": 474,
+    "WinRank": 675,
+    "TotalRank": 344,
+    "WinDiff": -34.54,
+    "DiffRank": 765
+  },
+  {
+    "#": 465,
+    "WinRate": 67.67,
+    "Total": 405,
+    "WinRank": 211,
+    "TotalRank": 469,
+    "WinDiff": 22.29,
+    "DiffRank": 122
+  },
+  {
+    "#": 466,
+    "WinRate": 64.67,
+    "Total": 330,
+    "WinRank": 231,
+    "TotalRank": 591,
+    "WinDiff": 34.21,
+    "DiffRank": 29
+  },
+  {
+    "#": 467,
+    "WinRate": 92.26,
+    "Total": 495,
+    "WinRank": 26,
+    "TotalRank": 256,
+    "WinDiff": 37.56,
+    "DiffRank": 11
+  },
+  {
+    "#": 468,
+    "WinRate": 12.48,
+    "Total": 275,
+    "WinRank": 723,
+    "TotalRank": 737,
+    "WinDiff": -13.2,
+    "DiffRank": 597
+  },
+  {
+    "#": 469,
+    "WinRate": 64.67,
+    "Total": 450,
+    "WinRank": 231,
+    "TotalRank": 399,
+    "WinDiff": 14.68,
+    "DiffRank": 205
+  },
+  {
+    "#": 470,
+    "WinRate": 12.23,
+    "Total": 325,
+    "WinRank": 727,
+    "TotalRank": 610,
+    "WinDiff": -17.38,
+    "DiffRank": 633
+  },
+  {
+    "#": 471,
+    "WinRate": 20.85,
+    "Total": 475,
+    "WinRank": 639,
+    "TotalRank": 337,
+    "WinDiff": -31.39,
+    "DiffRank": 751
+  },
+  {
+    "#": 472,
+    "WinRate": 88.14,
+    "Total": 482,
+    "WinRank": 58,
+    "TotalRank": 317,
+    "WinDiff": 35.12,
+    "DiffRank": 26
+  },
+  {
+    "#": 473,
+    "WinRate": 48.94,
+    "Total": 348,
+    "WinRank": 370,
+    "TotalRank": 564,
+    "WinDiff": 14.87,
+    "DiffRank": 202
+  },
+  {
+    "#": 474,
+    "WinRate": 56.68,
+    "Total": 498,
+    "WinRank": 307,
+    "TotalRank": 251,
+    "WinDiff": 1.54,
+    "DiffRank": 384
+  },
+  {
+    "#": 475,
+    "WinRate": 61.3,
+    "Total": 350,
+    "WinRank": 259,
+    "TotalRank": 556,
+    "WinDiff": 26.79,
+    "DiffRank": 74
+  },
+  {
+    "#": 476,
+    "WinRate": 81.4,
+    "Total": 480,
+    "WinRank": 101,
+    "TotalRank": 320,
+    "WinDiff": 28.61,
+    "DiffRank": 59
+  },
+  {
+    "#": 477,
+    "WinRate": 92.88,
+    "Total": 580,
+    "WinRank": 21,
+    "TotalRank": 91,
+    "WinDiff": 22.92,
+    "DiffRank": 116
+  },
+  {
+    "#": 478,
+    "WinRate": 73.28,
+    "Total": 495,
+    "WinRank": 170,
+    "TotalRank": 256,
+    "WinDiff": 18.58,
+    "DiffRank": 171
+  },
+  {
+    "#": 479,
+    "WinRate": 62.67,
+    "Total": 505,
+    "WinRank": 244,
+    "TotalRank": 218,
+    "WinDiff": 6.44,
+    "DiffRank": 320
+  },
+  {
+    "#": 480,
+    "WinRate": 59.68,
+    "Total": 310,
+    "WinRank": 279,
+    "TotalRank": 644,
+    "WinDiff": 32.07,
+    "DiffRank": 37
+  },
+  {
+    "#": 481,
+    "WinRate": 86.52,
+    "Total": 452,
+    "WinRank": 71,
+    "TotalRank": 397,
+    "WinDiff": 36.36,
+    "DiffRank": 15
+  },
+  {
+    "#": 482,
+    "WinRate": 18.6,
+    "Total": 285,
+    "WinRank": 669,
+    "TotalRank": 724,
+    "WinDiff": -7.42,
+    "DiffRank": 507
+  },
+  {
+    "#": 483,
+    "WinRate": 56.3,
+    "Total": 329,
+    "WinRank": 310,
+    "TotalRank": 606,
+    "WinDiff": 26.01,
+    "DiffRank": 82
+  },
+  {
+    "#": 484,
+    "WinRate": 67.04,
+    "Total": 479,
+    "WinRank": 215,
+    "TotalRank": 335,
+    "WinDiff": 14.37,
+    "DiffRank": 208
+  },
+  {
+    "#": 485,
+    "WinRate": 4.49,
+    "Total": 300,
+    "WinRank": 781,
+    "TotalRank": 682,
+    "WinDiff": -22.26,
+    "DiffRank": 695
+  },
+  {
+    "#": 486,
+    "WinRate": 15.11,
+    "Total": 500,
+    "WinRank": 701,
+    "TotalRank": 227,
+    "WinDiff": -40.33,
+    "DiffRank": 784
+  },
+  {
+    "#": 487,
+    "WinRate": 21.1,
+    "Total": 290,
+    "WinRank": 631,
+    "TotalRank": 712,
+    "WinDiff": -5.11,
+    "DiffRank": 469
+  },
+  {
+    "#": 488,
+    "WinRate": 28.09,
+    "Total": 310,
+    "WinRank": 561,
+    "TotalRank": 644,
+    "WinDiff": 0.48,
+    "DiffRank": 403
+  },
+  {
+    "#": 489,
+    "WinRate": 4.12,
+    "Total": 220,
+    "WinRank": 786,
+    "TotalRank": 778,
+    "WinDiff": -9.85,
+    "DiffRank": 541
+  },
+  {
+    "#": 490,
+    "WinRate": 70.29,
+    "Total": 411,
+    "WinRank": 188,
+    "TotalRank": 457,
+    "WinDiff": 24.09,
+    "DiffRank": 100
+  },
+  {
+    "#": 491,
+    "WinRate": 15.48,
+    "Total": 485,
+    "WinRank": 696,
+    "TotalRank": 299,
+    "WinDiff": -37.9,
+    "DiffRank": 772
+  },
+  {
+    "#": 492,
+    "WinRate": 20.97,
+    "Total": 300,
+    "WinRank": 635,
+    "TotalRank": 682,
+    "WinDiff": -5.78,
+    "DiffRank": 477
+  },
+  {
+    "#": 493,
+    "WinRate": 64.17,
+    "Total": 410,
+    "WinRank": 237,
+    "TotalRank": 459,
+    "WinDiff": 18.1,
+    "DiffRank": 175
+  },
+  {
+    "#": 494,
+    "WinRate": 81.27,
+    "Total": 600,
+    "WinRank": 102,
+    "TotalRank": 49,
+    "WinDiff": 8.87,
+    "DiffRank": 286
+  },
+  {
+    "#": 495,
+    "WinRate": 69.54,
+    "Total": 700,
+    "WinRank": 192,
+    "TotalRank": 7,
+    "WinDiff": -9.26,
+    "DiffRank": 534
+  },
+  {
+    "#": 496,
+    "WinRate": 46.57,
+    "Total": 390,
+    "WinRank": 387,
+    "TotalRank": 507,
+    "WinDiff": 3.62,
+    "DiffRank": 356
+  },
+  {
+    "#": 497,
+    "WinRate": 38.58,
+    "Total": 285,
+    "WinRank": 461,
+    "TotalRank": 724,
+    "WinDiff": 12.56,
+    "DiffRank": 225
+  },
+  {
+    "#": 498,
+    "WinRate": 70.79,
+    "Total": 525,
+    "WinRank": 186,
+    "TotalRank": 162,
+    "WinDiff": 10.99,
+    "DiffRank": 248
+  },
+  {
+    "#": 499,
+    "WinRate": 91.14,
+    "Total": 625,
+    "WinRank": 35,
+    "TotalRank": 42,
+    "WinDiff": 16.92,
+    "DiffRank": 183
+  },
+  {
+    "#": 500,
+    "WinRate": 16.23,
+    "Total": 330,
+    "WinRank": 684,
+    "TotalRank": 591,
+    "WinDiff": -14.23,
+    "DiffRank": 610
+  },
+  {
+    "#": 501,
+    "WinRate": 30.59,
+    "Total": 525,
+    "WinRank": 540,
+    "TotalRank": 162,
+    "WinDiff": -29.21,
+    "DiffRank": 744
+  },
+  {
+    "#": 502,
+    "WinRate": 42.07,
+    "Total": 330,
+    "WinRank": 423,
+    "TotalRank": 591,
+    "WinDiff": 11.61,
+    "DiffRank": 236
+  },
+  {
+    "#": 503,
+    "WinRate": 76.65,
+    "Total": 500,
+    "WinRank": 150,
+    "TotalRank": 227,
+    "WinDiff": 21.21,
+    "DiffRank": 134
+  },
+  {
+    "#": 504,
+    "WinRate": 26.22,
+    "Total": 300,
+    "WinRank": 587,
+    "TotalRank": 682,
+    "WinDiff": -0.53,
+    "DiffRank": 415
+  },
+  {
+    "#": 505,
+    "WinRate": 66.29,
+    "Total": 490,
+    "WinRank": 219,
+    "TotalRank": 277,
+    "WinDiff": 12.27,
+    "DiffRank": 228
+  },
+  {
+    "#": 506,
+    "WinRate": 27.84,
+    "Total": 454,
+    "WinRank": 564,
+    "TotalRank": 396,
+    "WinDiff": -22.48,
+    "DiffRank": 698
+  },
+  {
+    "#": 507,
+    "WinRate": 46.32,
+    "Total": 330,
+    "WinRank": 392,
+    "TotalRank": 591,
+    "WinDiff": 15.86,
+    "DiffRank": 192
+  },
+  {
+    "#": 508,
+    "WinRate": 73.03,
+    "Total": 460,
+    "WinRank": 172,
+    "TotalRank": 374,
+    "WinDiff": 22.21,
+    "DiffRank": 126
+  },
+  {
+    "#": 509,
+    "WinRate": 26.09,
+    "Total": 345,
+    "WinRank": 589,
+    "TotalRank": 567,
+    "WinDiff": -7.33,
+    "DiffRank": 506
+  },
+  {
+    "#": 510,
+    "WinRate": 19.1,
+    "Total": 334,
+    "WinRank": 663,
+    "TotalRank": 590,
+    "WinDiff": -12.1,
+    "DiffRank": 576
+  },
+  {
+    "#": 511,
+    "WinRate": 43.45,
+    "Total": 494,
+    "WinRank": 409,
+    "TotalRank": 271,
+    "WinDiff": -11.11,
+    "DiffRank": 559
+  },
+  {
+    "#": 512,
+    "WinRate": 32.58,
+    "Total": 594,
+    "WinRank": 522,
+    "TotalRank": 86,
+    "WinDiff": -39.19,
+    "DiffRank": 780
+  },
+  {
+    "#": 513,
+    "WinRate": 96.88,
+    "Total": 510,
+    "WinRank": 6,
+    "TotalRank": 205,
+    "WinDiff": 39.82,
+    "DiffRank": 6
+  },
+  {
+    "#": 514,
+    "WinRate": 36.95,
+    "Total": 535,
+    "WinRank": 477,
+    "TotalRank": 135,
+    "WinDiff": -24.81,
+    "DiffRank": 716
+  },
+  {
+    "#": 515,
+    "WinRate": 26.47,
+    "Total": 515,
+    "WinRank": 584,
+    "TotalRank": 196,
+    "WinDiff": -31.47,
+    "DiffRank": 752
+  },
+  {
+    "#": 516,
+    "WinRate": 44.19,
+    "Total": 535,
+    "WinRank": 406,
+    "TotalRank": 135,
+    "WinDiff": -17.57,
+    "DiffRank": 636
+  },
+  {
+    "#": 517,
+    "WinRate": 30.46,
+    "Total": 535,
+    "WinRank": 542,
+    "TotalRank": 135,
+    "WinDiff": -31.3,
+    "DiffRank": 750
+  },
+  {
+    "#": 518,
+    "WinRate": 74.28,
+    "Total": 540,
+    "WinRank": 164,
+    "TotalRank": 126,
+    "WinDiff": 11.53,
+    "DiffRank": 240
+  },
+  {
+    "#": 519,
+    "WinRate": 65.54,
+    "Total": 540,
+    "WinRank": 224,
+    "TotalRank": 126,
+    "WinDiff": 2.79,
+    "DiffRank": 368
+  },
+  {
+    "#": 520,
+    "WinRate": 62.3,
+    "Total": 545,
+    "WinRank": 246,
+    "TotalRank": 124,
+    "WinDiff": -1.44,
+    "DiffRank": 431
+  },
+  {
+    "#": 521,
+    "WinRate": 77.53,
+    "Total": 515,
+    "WinRank": 141,
+    "TotalRank": 196,
+    "WinDiff": 19.59,
+    "DiffRank": 151
+  },
+  {
+    "#": 522,
+    "WinRate": 76.9,
+    "Total": 525,
+    "WinRank": 149,
+    "TotalRank": 162,
+    "WinDiff": 17.1,
+    "DiffRank": 181
+  },
+  {
+    "#": 523,
+    "WinRate": 45.32,
+    "Total": 525,
+    "WinRank": 400,
+    "TotalRank": 162,
+    "WinDiff": -14.48,
+    "DiffRank": 613
+  },
+  {
+    "#": 524,
+    "WinRate": 79.65,
+    "Total": 510,
+    "WinRank": 118,
+    "TotalRank": 205,
+    "WinDiff": 22.59,
+    "DiffRank": 117
+  },
+  {
+    "#": 525,
+    "WinRate": 59.18,
+    "Total": 530,
+    "WinRank": 284,
+    "TotalRank": 149,
+    "WinDiff": -1.59,
+    "DiffRank": 435
+  },
+  {
+    "#": 526,
+    "WinRate": 68.04,
+    "Total": 535,
+    "WinRank": 208,
+    "TotalRank": 135,
+    "WinDiff": 6.28,
+    "DiffRank": 325
+  },
+  {
+    "#": 527,
+    "WinRate": 59.18,
+    "Total": 518,
+    "WinRank": 284,
+    "TotalRank": 194,
+    "WinDiff": 0.7,
+    "DiffRank": 398
+  },
+  {
+    "#": 528,
+    "WinRate": 86.64,
+    "Total": 618,
+    "WinRank": 70,
+    "TotalRank": 44,
+    "WinDiff": 12.82,
+    "DiffRank": 221
+  },
+  {
+    "#": 529,
+    "WinRate": 15.86,
+    "Total": 525,
+    "WinRank": 690,
+    "TotalRank": 162,
+    "WinDiff": -43.94,
+    "DiffRank": 791
+  },
+  {
+    "#": 530,
+    "WinRate": 20.22,
+    "Total": 525,
+    "WinRank": 654,
+    "TotalRank": 162,
+    "WinDiff": -39.58,
+    "DiffRank": 781
+  },
+  {
+    "#": 531,
+    "WinRate": 42.57,
+    "Total": 480,
+    "WinRank": 420,
+    "TotalRank": 320,
+    "WinDiff": -10.22,
+    "DiffRank": 547
+  },
+  {
+    "#": 532,
+    "WinRate": 26.72,
+    "Total": 440,
+    "WinRank": 580,
+    "TotalRank": 411,
+    "WinDiff": -22.45,
+    "DiffRank": 697
+  },
+  {
+    "#": 533,
+    "WinRate": 69.16,
+    "Total": 520,
+    "WinRank": 194,
+    "TotalRank": 181,
+    "WinDiff": 10.31,
+    "DiffRank": 266
+  },
+  {
+    "#": 534,
+    "WinRate": 69.41,
+    "Total": 520,
+    "WinRank": 193,
+    "TotalRank": 181,
+    "WinDiff": 10.56,
+    "DiffRank": 259
+  },
+  {
+    "#": 535,
+    "WinRate": 71.16,
+    "Total": 520,
+    "WinRank": 185,
+    "TotalRank": 181,
+    "WinDiff": 12.31,
+    "DiffRank": 226
+  },
+  {
+    "#": 536,
+    "WinRate": 68.91,
+    "Total": 520,
+    "WinRank": 197,
+    "TotalRank": 181,
+    "WinDiff": 10.06,
+    "DiffRank": 269
+  },
+  {
+    "#": 537,
+    "WinRate": 67.04,
+    "Total": 520,
+    "WinRank": 215,
+    "TotalRank": 181,
+    "WinDiff": 8.19,
+    "DiffRank": 301
+  },
+  {
+    "#": 538,
+    "WinRate": 72.91,
+    "Total": 580,
+    "WinRank": 174,
+    "TotalRank": 91,
+    "WinDiff": 2.95,
+    "DiffRank": 366
+  },
+  {
+    "#": 539,
+    "WinRate": 59.43,
+    "Total": 580,
+    "WinRank": 281,
+    "TotalRank": 91,
+    "WinDiff": -10.53,
+    "DiffRank": 551
+  },
+  {
+    "#": 540,
+    "WinRate": 90.01,
+    "Total": 580,
+    "WinRank": 44,
+    "TotalRank": 91,
+    "WinDiff": 20.05,
+    "DiffRank": 147
+  },
+  {
+    "#": 541,
+    "WinRate": 73.03,
+    "Total": 680,
+    "WinRank": 172,
+    "TotalRank": 16,
+    "WinDiff": -4.24,
+    "DiffRank": 453
+  },
+  {
+    "#": 542,
+    "WinRate": 82.52,
+    "Total": 680,
+    "WinRank": 91,
+    "TotalRank": 16,
+    "WinDiff": 5.25,
+    "DiffRank": 336
+  },
+  {
+    "#": 543,
+    "WinRate": 59.93,
+    "Total": 600,
+    "WinRank": 275,
+    "TotalRank": 49,
+    "WinDiff": -12.47,
+    "DiffRank": 580
+  },
+  {
+    "#": 544,
+    "WinRate": 77.53,
+    "Total": 670,
+    "WinRank": 141,
+    "TotalRank": 29,
+    "WinDiff": 0.99,
+    "DiffRank": 393
+  },
+  {
+    "#": 545,
+    "WinRate": 62.8,
+    "Total": 680,
+    "WinRank": 242,
+    "TotalRank": 16,
+    "WinDiff": -14.47,
+    "DiffRank": 612
+  },
+  {
+    "#": 546,
+    "WinRate": 63.17,
+    "Total": 680,
+    "WinRank": 239,
+    "TotalRank": 16,
+    "WinDiff": -14.1,
+    "DiffRank": 605
+  },
+  {
+    "#": 547,
+    "WinRate": 65.29,
+    "Total": 600,
+    "WinRank": 226,
+    "TotalRank": 49,
+    "WinDiff": -7.11,
+    "DiffRank": 501
+  },
+  {
+    "#": 548,
+    "WinRate": 61.3,
+    "Total": 480,
+    "WinRank": 259,
+    "TotalRank": 320,
+    "WinDiff": 8.51,
+    "DiffRank": 292
+  },
+  {
+    "#": 549,
+    "WinRate": 81.52,
+    "Total": 600,
+    "WinRank": 100,
+    "TotalRank": 49,
+    "WinDiff": 9.12,
+    "DiffRank": 285
+  },
+  {
+    "#": 550,
+    "WinRate": 93.01,
+    "Total": 600,
+    "WinRank": 19,
+    "TotalRank": 49,
+    "WinDiff": 20.61,
+    "DiffRank": 142
+  },
+  {
+    "#": 551,
+    "WinRate": 81.02,
+    "Total": 600,
+    "WinRank": 103,
+    "TotalRank": 49,
+    "WinDiff": 8.62,
+    "DiffRank": 291
+  },
+  {
+    "#": 552,
+    "WinRate": 97.38,
+    "Total": 600,
+    "WinRank": 5,
+    "TotalRank": 49,
+    "WinDiff": 24.98,
+    "DiffRank": 92
+  },
+  {
+    "#": 553,
+    "WinRate": 90.26,
+    "Total": 720,
+    "WinRank": 43,
+    "TotalRank": 6,
+    "WinDiff": 10.5,
+    "DiffRank": 261
+  },
+  {
+    "#": 554,
+    "WinRate": 82.15,
+    "Total": 600,
+    "WinRank": 93,
+    "TotalRank": 49,
+    "WinDiff": 9.75,
+    "DiffRank": 277
+  },
+  {
+    "#": 555,
+    "WinRate": 40.07,
+    "Total": 308,
+    "WinRank": 440,
+    "TotalRank": 658,
+    "WinDiff": 12.66,
+    "DiffRank": 222
+  },
+  {
+    "#": 556,
+    "WinRate": 62.92,
+    "Total": 413,
+    "WinRank": 241,
+    "TotalRank": 454,
+    "WinDiff": 16.46,
+    "DiffRank": 186
+  },
+  {
+    "#": 557,
+    "WinRate": 89.64,
+    "Total": 528,
+    "WinRank": 45,
+    "TotalRank": 159,
+    "WinDiff": 29.26,
+    "DiffRank": 54
+  },
+  {
+    "#": 558,
+    "WinRate": 20.97,
+    "Total": 308,
+    "WinRank": 635,
+    "TotalRank": 658,
+    "WinDiff": -6.44,
+    "DiffRank": 490
+  },
+  {
+    "#": 559,
+    "WinRate": 34.96,
+    "Total": 418,
+    "WinRank": 493,
+    "TotalRank": 450,
+    "WinDiff": -12.09,
+    "DiffRank": 575
+  },
+  {
+    "#": 560,
+    "WinRate": 47.07,
+    "Total": 528,
+    "WinRank": 383,
+    "TotalRank": 159,
+    "WinDiff": -13.31,
+    "DiffRank": 599
+  },
+  {
+    "#": 561,
+    "WinRate": 21.85,
+    "Total": 308,
+    "WinRank": 622,
+    "TotalRank": 658,
+    "WinDiff": -5.56,
+    "DiffRank": 473
+  },
+  {
+    "#": 562,
+    "WinRate": 38.95,
+    "Total": 413,
+    "WinRank": 452,
+    "TotalRank": 454,
+    "WinDiff": -7.51,
+    "DiffRank": 510
+  },
+  {
+    "#": 563,
+    "WinRate": 52.18,
+    "Total": 528,
+    "WinRank": 345,
+    "TotalRank": 159,
+    "WinDiff": -8.2,
+    "DiffRank": 518
+  },
+  {
+    "#": 564,
+    "WinRate": 17.98,
+    "Total": 255,
+    "WinRank": 673,
+    "TotalRank": 757,
+    "WinDiff": -6.22,
+    "DiffRank": 488
+  },
+  {
+    "#": 565,
+    "WinRate": 57.93,
+    "Total": 420,
+    "WinRank": 295,
+    "TotalRank": 441,
+    "WinDiff": 10.65,
+    "DiffRank": 254
+  },
+  {
+    "#": 566,
+    "WinRate": 31.21,
+    "Total": 275,
+    "WinRank": 535,
+    "TotalRank": 737,
+    "WinDiff": 5.53,
+    "DiffRank": 335
+  },
+  {
+    "#": 567,
+    "WinRate": 37.45,
+    "Total": 370,
+    "WinRank": 473,
+    "TotalRank": 529,
+    "WinDiff": -1.49,
+    "DiffRank": 432
+  },
+  {
+    "#": 568,
+    "WinRate": 59.3,
+    "Total": 500,
+    "WinRank": 282,
+    "TotalRank": 227,
+    "WinDiff": 3.86,
+    "DiffRank": 353
+  },
+  {
+    "#": 569,
+    "WinRate": 48.06,
+    "Total": 281,
+    "WinRank": 379,
+    "TotalRank": 727,
+    "WinDiff": 22.18,
+    "DiffRank": 127
+  },
+  {
+    "#": 570,
+    "WinRate": 87.02,
+    "Total": 446,
+    "WinRank": 67,
+    "TotalRank": 407,
+    "WinDiff": 37.35,
+    "DiffRank": 12
+  },
+  {
+    "#": 571,
+    "WinRate": 42.07,
+    "Total": 316,
+    "WinRank": 423,
+    "TotalRank": 632,
+    "WinDiff": 13.76,
+    "DiffRank": 212
+  },
+  {
+    "#": 572,
+    "WinRate": 85.02,
+    "Total": 498,
+    "WinRank": 79,
+    "TotalRank": 251,
+    "WinDiff": 29.88,
+    "DiffRank": 49
+  },
+  {
+    "#": 573,
+    "WinRate": 39.7,
+    "Total": 316,
+    "WinRank": 444,
+    "TotalRank": 632,
+    "WinDiff": 11.39,
+    "DiffRank": 242
+  },
+  {
+    "#": 574,
+    "WinRate": 83.52,
+    "Total": 498,
+    "WinRank": 83,
+    "TotalRank": 251,
+    "WinDiff": 28.38,
+    "DiffRank": 62
+  },
+  {
+    "#": 575,
+    "WinRate": 42.07,
+    "Total": 316,
+    "WinRank": 423,
+    "TotalRank": 632,
+    "WinDiff": 13.76,
+    "DiffRank": 212
+  },
+  {
+    "#": 576,
+    "WinRate": 84.77,
+    "Total": 498,
+    "WinRank": 80,
+    "TotalRank": 251,
+    "WinDiff": 29.63,
+    "DiffRank": 51
+  },
+  {
+    "#": 577,
+    "WinRate": 4.24,
+    "Total": 292,
+    "WinRank": 784,
+    "TotalRank": 710,
+    "WinDiff": -22.05,
+    "DiffRank": 691
+  },
+  {
+    "#": 578,
+    "WinRate": 7.87,
+    "Total": 487,
+    "WinRank": 756,
+    "TotalRank": 298,
+    "WinDiff": -45.76,
+    "DiffRank": 796
+  },
+  {
+    "#": 579,
+    "WinRate": 22.22,
+    "Total": 264,
+    "WinRank": 619,
+    "TotalRank": 750,
+    "WinDiff": -2.88,
+    "DiffRank": 443
+  },
+  {
+    "#": 580,
+    "WinRate": 46.32,
+    "Total": 358,
+    "WinRank": 392,
+    "TotalRank": 547,
+    "WinDiff": 10.04,
+    "DiffRank": 271
+  },
+  {
+    "#": 581,
+    "WinRate": 74.66,
+    "Total": 488,
+    "WinRank": 162,
+    "TotalRank": 296,
+    "WinDiff": 20.91,
+    "DiffRank": 140
+  },
+  {
+    "#": 582,
+    "WinRate": 54.81,
+    "Total": 295,
+    "WinRank": 320,
+    "TotalRank": 702,
+    "WinDiff": 28.37,
+    "DiffRank": 63
+  },
+  {
+    "#": 583,
+    "WinRate": 90.64,
+    "Total": 497,
+    "WinRank": 40,
+    "TotalRank": 255,
+    "WinDiff": 35.65,
+    "DiffRank": 22
+  },
+  {
+    "#": 584,
+    "WinRate": 14.11,
+    "Total": 280,
+    "WinRank": 714,
+    "TotalRank": 728,
+    "WinDiff": -11.74,
+    "DiffRank": 567
+  },
+  {
+    "#": 585,
+    "WinRate": 29.59,
+    "Total": 390,
+    "WinRank": 548,
+    "TotalRank": 507,
+    "WinDiff": -13.36,
+    "DiffRank": 600
+  },
+  {
+    "#": 586,
+    "WinRate": 39.95,
+    "Total": 515,
+    "WinRank": 441,
+    "TotalRank": 196,
+    "WinDiff": -17.99,
+    "DiffRank": 639
+  },
+  {
+    "#": 587,
+    "WinRate": 54.68,
+    "Total": 313,
+    "WinRank": 322,
+    "TotalRank": 642,
+    "WinDiff": 26.74,
+    "DiffRank": 75
+  },
+  {
+    "#": 588,
+    "WinRate": 87.52,
+    "Total": 425,
+    "WinRank": 66,
+    "TotalRank": 432,
+    "WinDiff": 39.71,
+    "DiffRank": 7
+  },
+  {
+    "#": 589,
+    "WinRate": 54.31,
+    "Total": 328,
+    "WinRank": 325,
+    "TotalRank": 608,
+    "WinDiff": 24.2,
+    "DiffRank": 99
+  },
+  {
+    "#": 590,
+    "WinRate": 73.16,
+    "Total": 508,
+    "WinRank": 171,
+    "TotalRank": 216,
+    "WinDiff": 16.44,
+    "DiffRank": 187
+  },
+  {
+    "#": 591,
+    "WinRate": 25.22,
+    "Total": 445,
+    "WinRank": 596,
+    "TotalRank": 408,
+    "WinDiff": -24.37,
+    "DiffRank": 711
+  },
+  {
+    "#": 592,
+    "WinRate": 25.84,
+    "Total": 545,
+    "WinRank": 591,
+    "TotalRank": 124,
+    "WinDiff": -37.9,
+    "DiffRank": 772
+  },
+  {
+    "#": 593,
+    "WinRate": 14.86,
+    "Total": 305,
+    "WinRank": 705,
+    "TotalRank": 664,
+    "WinDiff": -12.27,
+    "DiffRank": 578
+  },
+  {
+    "#": 594,
+    "WinRate": 20.47,
+    "Total": 405,
+    "WinRank": 650,
+    "TotalRank": 469,
+    "WinDiff": -24.91,
+    "DiffRank": 717
+  },
+  {
+    "#": 595,
+    "WinRate": 31.71,
+    "Total": 505,
+    "WinRank": 530,
+    "TotalRank": 218,
+    "WinDiff": -24.52,
+    "DiffRank": 713
+  },
+  {
+    "#": 596,
+    "WinRate": 41.7,
+    "Total": 294,
+    "WinRank": 426,
+    "TotalRank": 708,
+    "WinDiff": 15.31,
+    "DiffRank": 200
+  },
+  {
+    "#": 597,
+    "WinRate": 49.69,
+    "Total": 384,
+    "WinRank": 364,
+    "TotalRank": 519,
+    "WinDiff": 7.86,
+    "DiffRank": 304
+  },
+  {
+    "#": 598,
+    "WinRate": 55.81,
+    "Total": 509,
+    "WinRank": 312,
+    "TotalRank": 215,
+    "WinDiff": -1.08,
+    "DiffRank": 424
+  },
+  {
+    "#": 599,
+    "WinRate": 24.47,
+    "Total": 465,
+    "WinRank": 603,
+    "TotalRank": 363,
+    "WinDiff": -26.8,
+    "DiffRank": 730
+  },
+  {
+    "#": 600,
+    "WinRate": 64.79,
+    "Total": 465,
+    "WinRank": 230,
+    "TotalRank": 363,
+    "WinDiff": 13.52,
+    "DiffRank": 215
+  },
+  {
+    "#": 601,
+    "WinRate": 20.72,
+    "Total": 310,
+    "WinRank": 642,
+    "TotalRank": 644,
+    "WinDiff": -6.89,
+    "DiffRank": 499
+  },
+  {
+    "#": 602,
+    "WinRate": 21.35,
+    "Total": 380,
+    "WinRank": 627,
+    "TotalRank": 522,
+    "WinDiff": -19.69,
+    "DiffRank": 652
+  },
+  {
+    "#": 603,
+    "WinRate": 77.15,
+    "Total": 500,
+    "WinRank": 145,
+    "TotalRank": 227,
+    "WinDiff": 21.71,
+    "DiffRank": 131
+  },
+  {
+    "#": 604,
+    "WinRate": 31.71,
+    "Total": 260,
+    "WinRank": 530,
+    "TotalRank": 754,
+    "WinDiff": 6.95,
+    "DiffRank": 318
+  },
+  {
+    "#": 605,
+    "WinRate": 23.85,
+    "Total": 360,
+    "WinRank": 609,
+    "TotalRank": 541,
+    "WinDiff": -12.88,
+    "DiffRank": 588
+  },
+  {
+    "#": 606,
+    "WinRate": 91.89,
+    "Total": 485,
+    "WinRank": 28,
+    "TotalRank": 299,
+    "WinDiff": 38.51,
+    "DiffRank": 9
+  },
+  {
+    "#": 607,
+    "WinRate": 42.95,
+    "Total": 280,
+    "WinRank": 416,
+    "TotalRank": 728,
+    "WinDiff": 17.1,
+    "DiffRank": 181
+  },
+  {
+    "#": 608,
+    "WinRate": 88.26,
+    "Total": 480,
+    "WinRank": 57,
+    "TotalRank": 320,
+    "WinDiff": 35.47,
+    "DiffRank": 24
+  },
+  {
+    "#": 609,
+    "WinRate": 10.24,
+    "Total": 280,
+    "WinRank": 743,
+    "TotalRank": 728,
+    "WinDiff": -15.61,
+    "DiffRank": 625
+  },
+  {
+    "#": 610,
+    "WinRate": 68.54,
+    "Total": 480,
+    "WinRank": 198,
+    "TotalRank": 320,
+    "WinDiff": 15.75,
+    "DiffRank": 193
+  },
+  {
+    "#": 611,
+    "WinRate": 80.15,
+    "Total": 460,
+    "WinRank": 113,
+    "TotalRank": 374,
+    "WinDiff": 29.33,
+    "DiffRank": 53
+  },
+  {
+    "#": 612,
+    "WinRate": 54.43,
+    "Total": 292,
+    "WinRank": 324,
+    "TotalRank": 710,
+    "WinDiff": 28.14,
+    "DiffRank": 69
+  },
+  {
+    "#": 613,
+    "WinRate": 64.67,
+    "Total": 351,
+    "WinRank": 231,
+    "TotalRank": 555,
+    "WinDiff": 29.94,
+    "DiffRank": 48
+  },
+  {
+    "#": 614,
+    "WinRate": 79.15,
+    "Total": 519,
+    "WinRank": 124,
+    "TotalRank": 193,
+    "WinDiff": 20.48,
+    "DiffRank": 143
+  },
+  {
+    "#": 615,
+    "WinRate": 30.21,
+    "Total": 315,
+    "WinRank": 545,
+    "TotalRank": 635,
+    "WinDiff": 2.03,
+    "DiffRank": 377
+  },
+  {
+    "#": 616,
+    "WinRate": 77.03,
+    "Total": 480,
+    "WinRank": 147,
+    "TotalRank": 320,
+    "WinDiff": 24.24,
+    "DiffRank": 98
+  },
+  {
+    "#": 617,
+    "WinRate": 31.71,
+    "Total": 540,
+    "WinRank": 530,
+    "TotalRank": 126,
+    "WinDiff": -31.04,
+    "DiffRank": 748
+  },
+  {
+    "#": 618,
+    "WinRate": 41.7,
+    "Total": 461,
+    "WinRank": 426,
+    "TotalRank": 373,
+    "WinDiff": -9.21,
+    "DiffRank": 532
+  },
+  {
+    "#": 619,
+    "WinRate": 33.71,
+    "Total": 325,
+    "WinRank": 502,
+    "TotalRank": 610,
+    "WinDiff": 4.1,
+    "DiffRank": 350
+  },
+  {
+    "#": 620,
+    "WinRate": 25.84,
+    "Total": 475,
+    "WinRank": 591,
+    "TotalRank": 337,
+    "WinDiff": -26.4,
+    "DiffRank": 727
+  },
+  {
+    "#": 621,
+    "WinRate": 29.09,
+    "Total": 348,
+    "WinRank": 551,
+    "TotalRank": 564,
+    "WinDiff": -4.98,
+    "DiffRank": 467
+  },
+  {
+    "#": 622,
+    "WinRate": 39.58,
+    "Total": 488,
+    "WinRank": 446,
+    "TotalRank": 296,
+    "WinDiff": -14.17,
+    "DiffRank": 608
+  },
+  {
+    "#": 623,
+    "WinRate": 78.65,
+    "Total": 490,
+    "WinRank": 129,
+    "TotalRank": 277,
+    "WinDiff": 24.63,
+    "DiffRank": 95
+  },
+  {
+    "#": 624,
+    "WinRate": 5.49,
+    "Total": 303,
+    "WinRank": 777,
+    "TotalRank": 678,
+    "WinDiff": -21.48,
+    "DiffRank": 681
+  },
+  {
+    "#": 625,
+    "WinRate": 6.62,
+    "Total": 483,
+    "WinRank": 771,
+    "TotalRank": 313,
+    "WinDiff": -46.52,
+    "DiffRank": 797
+  },
+  {
+    "#": 626,
+    "WinRate": 16.23,
+    "Total": 355,
+    "WinRank": 684,
+    "TotalRank": 548,
+    "WinDiff": -19.38,
+    "DiffRank": 649
+  },
+  {
+    "#": 627,
+    "WinRate": 32.46,
+    "Total": 495,
+    "WinRank": 523,
+    "TotalRank": 256,
+    "WinDiff": -22.24,
+    "DiffRank": 694
+  },
+  {
+    "#": 628,
+    "WinRate": 55.18,
+    "Total": 401,
+    "WinRank": 317,
+    "TotalRank": 495,
+    "WinDiff": 10.39,
+    "DiffRank": 264
+  },
+  {
+    "#": 629,
+    "WinRate": 91.26,
+    "Total": 567,
+    "WinRank": 34,
+    "TotalRank": 116,
+    "WinDiff": 23.38,
+    "DiffRank": 110
+  },
+  {
+    "#": 630,
+    "WinRate": 40.32,
+    "Total": 329,
+    "WinRank": 437,
+    "TotalRank": 606,
+    "WinDiff": 10.03,
+    "DiffRank": 272
+  },
+  {
+    "#": 631,
+    "WinRate": 56.8,
+    "Total": 474,
+    "WinRank": 306,
+    "TotalRank": 344,
+    "WinDiff": 4.66,
+    "DiffRank": 344
+  },
+  {
+    "#": 632,
+    "WinRate": 46.44,
+    "Total": 330,
+    "WinRank": 390,
+    "TotalRank": 591,
+    "WinDiff": 15.98,
+    "DiffRank": 190
+  },
+  {
+    "#": 633,
+    "WinRate": 86.77,
+    "Total": 510,
+    "WinRank": 69,
+    "TotalRank": 205,
+    "WinDiff": 29.71,
+    "DiffRank": 50
+  },
+  {
+    "#": 634,
+    "WinRate": 51.69,
+    "Total": 300,
+    "WinRank": 347,
+    "TotalRank": 682,
+    "WinDiff": 24.94,
+    "DiffRank": 93
+  },
+  {
+    "#": 635,
+    "WinRate": 87.77,
+    "Total": 470,
+    "WinRank": 64,
+    "TotalRank": 352,
+    "WinDiff": 36.03,
+    "DiffRank": 19
+  },
+  {
+    "#": 636,
+    "WinRate": 18.73,
+    "Total": 290,
+    "WinRank": 668,
+    "TotalRank": 712,
+    "WinDiff": -7.48,
+    "DiffRank": 509
+  },
+  {
+    "#": 637,
+    "WinRate": 30.96,
+    "Total": 390,
+    "WinRank": 536,
+    "TotalRank": 507,
+    "WinDiff": -11.99,
+    "DiffRank": 571
+  },
+  {
+    "#": 638,
+    "WinRate": 43.2,
+    "Total": 490,
+    "WinRank": 413,
+    "TotalRank": 277,
+    "WinDiff": -10.82,
+    "DiffRank": 554
+  },
+  {
+    "#": 639,
+    "WinRate": 2.25,
+    "Total": 290,
+    "WinRank": 799,
+    "TotalRank": 712,
+    "WinDiff": -23.96,
+    "DiffRank": 708
+  },
+  {
+    "#": 640,
+    "WinRate": 6.37,
+    "Total": 370,
+    "WinRank": 772,
+    "TotalRank": 529,
+    "WinDiff": -32.57,
+    "DiffRank": 758
+  },
+  {
+    "#": 641,
+    "WinRate": 8.49,
+    "Total": 490,
+    "WinRank": 752,
+    "TotalRank": 277,
+    "WinDiff": -45.53,
+    "DiffRank": 795
+  },
+  {
+    "#": 642,
+    "WinRate": 35.33,
+    "Total": 305,
+    "WinRank": 491,
+    "TotalRank": 664,
+    "WinDiff": 8.2,
+    "DiffRank": 300
+  },
+  {
+    "#": 643,
+    "WinRate": 82.15,
+    "Total": 473,
+    "WinRank": 93,
+    "TotalRank": 348,
+    "WinDiff": 30.11,
+    "DiffRank": 47
+  },
+  {
+    "#": 644,
+    "WinRate": 19.1,
+    "Total": 305,
+    "WinRank": 663,
+    "TotalRank": 664,
+    "WinDiff": -8.03,
+    "DiffRank": 515
+  },
+  {
+    "#": 645,
+    "WinRate": 37.83,
+    "Total": 395,
+    "WinRank": 471,
+    "TotalRank": 501,
+    "WinDiff": -6,
+    "DiffRank": 482
+  },
+  {
+    "#": 646,
+    "WinRate": 61.17,
+    "Total": 535,
+    "WinRank": 264,
+    "TotalRank": 135,
+    "WinDiff": -0.59,
+    "DiffRank": 417
+  },
+  {
+    "#": 647,
+    "WinRate": 55.43,
+    "Total": 335,
+    "WinRank": 314,
+    "TotalRank": 581,
+    "WinDiff": 24.04,
+    "DiffRank": 102
+  },
+  {
+    "#": 648,
+    "WinRate": 76.15,
+    "Total": 475,
+    "WinRank": 155,
+    "TotalRank": 337,
+    "WinDiff": 23.91,
+    "DiffRank": 103
+  },
+  {
+    "#": 649,
+    "WinRate": 84.27,
+    "Total": 428,
+    "WinRank": 82,
+    "TotalRank": 431,
+    "WinDiff": 36.17,
+    "DiffRank": 18
+  },
+  {
+    "#": 650,
+    "WinRate": 38.83,
+    "Total": 315,
+    "WinRank": 455,
+    "TotalRank": 635,
+    "WinDiff": 10.65,
+    "DiffRank": 254
+  },
+  {
+    "#": 651,
+    "WinRate": 54.93,
+    "Total": 495,
+    "WinRank": 319,
+    "TotalRank": 256,
+    "WinDiff": 0.23,
+    "DiffRank": 405
+  },
+  {
+    "#": 652,
+    "WinRate": 5.74,
+    "Total": 294,
+    "WinRank": 775,
+    "TotalRank": 708,
+    "WinDiff": -20.65,
+    "DiffRank": 667
+  },
+  {
+    "#": 653,
+    "WinRate": 13.98,
+    "Total": 464,
+    "WinRank": 716,
+    "TotalRank": 371,
+    "WinDiff": -37.2,
+    "DiffRank": 769
+  },
+  {
+    "#": 654,
+    "WinRate": 12.98,
+    "Total": 335,
+    "WinRank": 721,
+    "TotalRank": 581,
+    "WinDiff": -18.41,
+    "DiffRank": 642
+  },
+  {
+    "#": 655,
+    "WinRate": 26.22,
+    "Total": 480,
+    "WinRank": 587,
+    "TotalRank": 320,
+    "WinDiff": -26.57,
+    "DiffRank": 729
+  },
+  {
+    "#": 656,
+    "WinRate": 45.69,
+    "Total": 470,
+    "WinRank": 398,
+    "TotalRank": 352,
+    "WinDiff": -6.05,
+    "DiffRank": 484
+  },
+  {
+    "#": 657,
+    "WinRate": 43.57,
+    "Total": 319,
+    "WinRank": 408,
+    "TotalRank": 628,
+    "WinDiff": 14.86,
+    "DiffRank": 203
+  },
+  {
+    "#": 658,
+    "WinRate": 88.14,
+    "Total": 472,
+    "WinRank": 58,
+    "TotalRank": 349,
+    "WinDiff": 36.21,
+    "DiffRank": 17
+  },
+  {
+    "#": 659,
+    "WinRate": 15.23,
+    "Total": 305,
+    "WinRank": 699,
+    "TotalRank": 664,
+    "WinDiff": -11.9,
+    "DiffRank": 570
+  },
+  {
+    "#": 660,
+    "WinRate": 32.96,
+    "Total": 489,
+    "WinRank": 511,
+    "TotalRank": 295,
+    "WinDiff": -20.92,
+    "DiffRank": 671
+  },
+  {
+    "#": 661,
+    "WinRate": 7.49,
+    "Total": 300,
+    "WinRank": 761,
+    "TotalRank": 682,
+    "WinDiff": -19.26,
+    "DiffRank": 646
+  },
+  {
+    "#": 662,
+    "WinRate": 27.34,
+    "Total": 440,
+    "WinRank": 571,
+    "TotalRank": 411,
+    "WinDiff": -21.83,
+    "DiffRank": 685
+  },
+  {
+    "#": 663,
+    "WinRate": 71.79,
+    "Total": 520,
+    "WinRank": 182,
+    "TotalRank": 181,
+    "WinDiff": 12.94,
+    "DiffRank": 220
+  },
+  {
+    "#": 664,
+    "WinRate": 37.33,
+    "Total": 275,
+    "WinRank": 474,
+    "TotalRank": 737,
+    "WinDiff": 11.65,
+    "DiffRank": 235
+  },
+  {
+    "#": 665,
+    "WinRate": 19.98,
+    "Total": 405,
+    "WinRank": 657,
+    "TotalRank": 469,
+    "WinDiff": -25.4,
+    "DiffRank": 721
+  },
+  {
+    "#": 666,
+    "WinRate": 32.71,
+    "Total": 515,
+    "WinRank": 519,
+    "TotalRank": 196,
+    "WinDiff": -25.23,
+    "DiffRank": 720
+  },
+  {
+    "#": 667,
+    "WinRate": 6.87,
+    "Total": 335,
+    "WinRank": 767,
+    "TotalRank": 581,
+    "WinDiff": -24.52,
+    "DiffRank": 713
+  },
+  {
+    "#": 668,
+    "WinRate": 15.86,
+    "Total": 485,
+    "WinRank": 690,
+    "TotalRank": 299,
+    "WinDiff": -37.52,
+    "DiffRank": 770
+  },
+  {
+    "#": 669,
+    "WinRate": 3.75,
+    "Total": 275,
+    "WinRank": 789,
+    "TotalRank": 737,
+    "WinDiff": -21.93,
+    "DiffRank": 687
+  },
+  {
+    "#": 670,
+    "WinRate": 29.46,
+    "Total": 370,
+    "WinRank": 549,
+    "TotalRank": 529,
+    "WinDiff": -9.48,
+    "DiffRank": 536
+  },
+  {
+    "#": 671,
+    "WinRate": 54.06,
+    "Total": 520,
+    "WinRank": 327,
+    "TotalRank": 181,
+    "WinDiff": -4.79,
+    "DiffRank": 462
+  },
+  {
+    "#": 672,
+    "WinRate": 36.7,
+    "Total": 320,
+    "WinRank": 483,
+    "TotalRank": 620,
+    "WinDiff": 7.85,
+    "DiffRank": 305
+  },
+  {
+    "#": 673,
+    "WinRate": 49.81,
+    "Total": 410,
+    "WinRank": 363,
+    "TotalRank": 459,
+    "WinDiff": 3.74,
+    "DiffRank": 354
+  },
+  {
+    "#": 674,
+    "WinRate": 78.65,
+    "Total": 540,
+    "WinRank": 129,
+    "TotalRank": 126,
+    "WinDiff": 15.9,
+    "DiffRank": 191
+  },
+  {
+    "#": 675,
+    "WinRate": 17.98,
+    "Total": 305,
+    "WinRank": 673,
+    "TotalRank": 664,
+    "WinDiff": -9.15,
+    "DiffRank": 529
+  },
+  {
+    "#": 676,
+    "WinRate": 30.21,
+    "Total": 485,
+    "WinRank": 545,
+    "TotalRank": 299,
+    "WinDiff": -23.17,
+    "DiffRank": 704
+  },
+  {
+    "#": 677,
+    "WinRate": 74.03,
+    "Total": 485,
+    "WinRank": 166,
+    "TotalRank": 299,
+    "WinDiff": 20.65,
+    "DiffRank": 141
+  },
+  {
+    "#": 678,
+    "WinRate": 5.74,
+    "Total": 305,
+    "WinRank": 775,
+    "TotalRank": 664,
+    "WinDiff": -21.39,
+    "DiffRank": 680
+  },
+  {
+    "#": 679,
+    "WinRate": 91.01,
+    "Total": 495,
+    "WinRank": 38,
+    "TotalRank": 256,
+    "WinDiff": 36.31,
+    "DiffRank": 16
+  },
+  {
+    "#": 680,
+    "WinRate": 19.98,
+    "Total": 471,
+    "WinRank": 657,
+    "TotalRank": 351,
+    "WinDiff": -31.85,
+    "DiffRank": 755
+  },
+  {
+    "#": 681,
+    "WinRate": 45.07,
+    "Total": 350,
+    "WinRank": 402,
+    "TotalRank": 556,
+    "WinDiff": 10.56,
+    "DiffRank": 259
+  },
+  {
+    "#": 682,
+    "WinRate": 83.52,
+    "Total": 510,
+    "WinRank": 83,
+    "TotalRank": 205,
+    "WinDiff": 26.46,
+    "DiffRank": 77
+  },
+  {
+    "#": 683,
+    "WinRate": 27.59,
+    "Total": 485,
+    "WinRank": 566,
+    "TotalRank": 299,
+    "WinDiff": -25.79,
+    "DiffRank": 725
+  },
+  {
+    "#": 684,
+    "WinRate": 9.49,
+    "Total": 303,
+    "WinRank": 749,
+    "TotalRank": 678,
+    "WinDiff": -17.48,
+    "DiffRank": 634
+  },
+  {
+    "#": 685,
+    "WinRate": 14.86,
+    "Total": 483,
+    "WinRank": 705,
+    "TotalRank": 313,
+    "WinDiff": -38.28,
+    "DiffRank": 776
+  },
+  {
+    "#": 686,
+    "WinRate": 44.44,
+    "Total": 340,
+    "WinRank": 405,
+    "TotalRank": 572,
+    "WinDiff": 12.06,
+    "DiffRank": 231
+  },
+  {
+    "#": 687,
+    "WinRate": 57.55,
+    "Total": 490,
+    "WinRank": 299,
+    "TotalRank": 277,
+    "WinDiff": 3.53,
+    "DiffRank": 359
+  },
+  {
+    "#": 688,
+    "WinRate": 32.96,
+    "Total": 490,
+    "WinRank": 511,
+    "TotalRank": 277,
+    "WinDiff": -21.06,
+    "DiffRank": 674
+  },
+  {
+    "#": 689,
+    "WinRate": 40.45,
+    "Total": 350,
+    "WinRank": 434,
+    "TotalRank": 556,
+    "WinDiff": 5.94,
+    "DiffRank": 328
+  },
+  {
+    "#": 690,
+    "WinRate": 61.42,
+    "Total": 510,
+    "WinRank": 257,
+    "TotalRank": 205,
+    "WinDiff": 4.36,
+    "DiffRank": 346
+  },
+  {
+    "#": 691,
+    "WinRate": 47.32,
+    "Total": 370,
+    "WinRank": 381,
+    "TotalRank": 529,
+    "WinDiff": 8.38,
+    "DiffRank": 295
+  },
+  {
+    "#": 692,
+    "WinRate": 65.92,
+    "Total": 510,
+    "WinRank": 222,
+    "TotalRank": 205,
+    "WinDiff": 8.86,
+    "DiffRank": 287
+  },
+  {
+    "#": 693,
+    "WinRate": 45.19,
+    "Total": 484,
+    "WinRank": 401,
+    "TotalRank": 311,
+    "WinDiff": -8.07,
+    "DiffRank": 516
+  },
+  {
+    "#": 694,
+    "WinRate": 90.51,
+    "Total": 484,
+    "WinRank": 41,
+    "TotalRank": 311,
+    "WinDiff": 37.25,
+    "DiffRank": 13
+  },
+  {
+    "#": 695,
+    "WinRate": 20.6,
+    "Total": 300,
+    "WinRank": 647,
+    "TotalRank": 682,
+    "WinDiff": -6.15,
+    "DiffRank": 487
+  },
+  {
+    "#": 696,
+    "WinRate": 41.32,
+    "Total": 420,
+    "WinRank": 431,
+    "TotalRank": 441,
+    "WinDiff": -5.96,
+    "DiffRank": 480
+  },
+  {
+    "#": 697,
+    "WinRate": 79.53,
+    "Total": 600,
+    "WinRank": 123,
+    "TotalRank": 49,
+    "WinDiff": 7.13,
+    "DiffRank": 317
+  },
+  {
+    "#": 698,
+    "WinRate": 39.58,
+    "Total": 360,
+    "WinRank": 446,
+    "TotalRank": 541,
+    "WinDiff": 2.85,
+    "DiffRank": 367
+  },
+  {
+    "#": 699,
+    "WinRate": 77.03,
+    "Total": 550,
+    "WinRank": 147,
+    "TotalRank": 123,
+    "WinDiff": 12.3,
+    "DiffRank": 227
+  },
+  {
+    "#": 700,
+    "WinRate": 87.77,
+    "Total": 580,
+    "WinRank": 64,
+    "TotalRank": 91,
+    "WinDiff": 17.81,
+    "DiffRank": 176
+  },
+  {
+    "#": 701,
+    "WinRate": 88.76,
+    "Total": 580,
+    "WinRank": 54,
+    "TotalRank": 91,
+    "WinDiff": 18.8,
+    "DiffRank": 168
+  },
+  {
+    "#": 702,
+    "WinRate": 88.89,
+    "Total": 580,
+    "WinRank": 52,
+    "TotalRank": 91,
+    "WinDiff": 18.93,
+    "DiffRank": 162
+  },
+  {
+    "#": 703,
+    "WinRate": 92.26,
+    "Total": 580,
+    "WinRank": 26,
+    "TotalRank": 91,
+    "WinDiff": 22.3,
+    "DiffRank": 121
+  },
+  {
+    "#": 704,
+    "WinRate": 95.01,
+    "Total": 580,
+    "WinRank": 13,
+    "TotalRank": 91,
+    "WinDiff": 25.05,
+    "DiffRank": 90
+  },
+  {
+    "#": 705,
+    "WinRate": 91.14,
+    "Total": 580,
+    "WinRank": 35,
+    "TotalRank": 91,
+    "WinDiff": 21.18,
+    "DiffRank": 135
+  },
+  {
+    "#": 706,
+    "WinRate": 84.77,
+    "Total": 580,
+    "WinRank": 80,
+    "TotalRank": 91,
+    "WinDiff": 14.81,
+    "DiffRank": 204
+  },
+  {
+    "#": 707,
+    "WinRate": 72.91,
+    "Total": 680,
+    "WinRank": 174,
+    "TotalRank": 16,
+    "WinDiff": -4.36,
+    "DiffRank": 456
+  },
+  {
+    "#": 708,
+    "WinRate": 72.16,
+    "Total": 680,
+    "WinRank": 181,
+    "TotalRank": 16,
+    "WinDiff": -5.11,
+    "DiffRank": 469
+  },
+  {
+    "#": 709,
+    "WinRate": 85.39,
+    "Total": 600,
+    "WinRank": 77,
+    "TotalRank": 49,
+    "WinDiff": 12.99,
+    "DiffRank": 219
+  },
+  {
+    "#": 710,
+    "WinRate": 77.15,
+    "Total": 600,
+    "WinRank": 145,
+    "TotalRank": 49,
+    "WinDiff": 4.75,
+    "DiffRank": 343
+  },
+  {
+    "#": 711,
+    "WinRate": 78.15,
+    "Total": 660,
+    "WinRank": 134,
+    "TotalRank": 33,
+    "WinDiff": 2.23,
+    "DiffRank": 375
+  },
+  {
+    "#": 712,
+    "WinRate": 77.53,
+    "Total": 700,
+    "WinRank": 141,
+    "TotalRank": 7,
+    "WinDiff": -1.27,
+    "DiffRank": 427
+  },
+  {
+    "#": 713,
+    "WinRate": 78.03,
+    "Total": 700,
+    "WinRank": 136,
+    "TotalRank": 7,
+    "WinDiff": -0.77,
+    "DiffRank": 419
+  },
+  {
+    "#": 714,
+    "WinRate": 89.01,
+    "Total": 580,
+    "WinRank": 50,
+    "TotalRank": 91,
+    "WinDiff": 19.05,
+    "DiffRank": 159
+  },
+  {
+    "#": 715,
+    "WinRate": 89.01,
+    "Total": 580,
+    "WinRank": 50,
+    "TotalRank": 91,
+    "WinDiff": 19.05,
+    "DiffRank": 159
+  },
+  {
+    "#": 716,
+    "WinRate": 65.29,
+    "Total": 600,
+    "WinRank": 226,
+    "TotalRank": 49,
+    "WinDiff": -7.11,
+    "DiffRank": 501
+  },
+  {
+    "#": 717,
+    "WinRate": 91.89,
+    "Total": 600,
+    "WinRank": 28,
+    "TotalRank": 49,
+    "WinDiff": 19.49,
+    "DiffRank": 153
+  },
+  {
+    "#": 718,
+    "WinRate": 82.15,
+    "Total": 600,
+    "WinRank": 93,
+    "TotalRank": 49,
+    "WinDiff": 9.75,
+    "DiffRank": 277
+  },
+  {
+    "#": 719,
+    "WinRate": 16.48,
+    "Total": 313,
+    "WinRank": 680,
+    "TotalRank": 642,
+    "WinDiff": -11.46,
+    "DiffRank": 565
+  },
+  {
+    "#": 720,
+    "WinRate": 38.08,
+    "Total": 405,
+    "WinRank": 469,
+    "TotalRank": 469,
+    "WinDiff": -7.3,
+    "DiffRank": 504
+  },
+  {
+    "#": 721,
+    "WinRate": 46.44,
+    "Total": 530,
+    "WinRank": 390,
+    "TotalRank": 149,
+    "WinDiff": -14.33,
+    "DiffRank": 611
+  },
+  {
+    "#": 722,
+    "WinRate": 33.21,
+    "Total": 307,
+    "WinRank": 508,
+    "TotalRank": 662,
+    "WinDiff": 5.9,
+    "DiffRank": 329
+  },
+  {
+    "#": 723,
+    "WinRate": 53.18,
+    "Total": 409,
+    "WinRank": 333,
+    "TotalRank": 468,
+    "WinDiff": 7.24,
+    "DiffRank": 314
+  },
+  {
+    "#": 724,
+    "WinRate": 83.4,
+    "Total": 534,
+    "WinRank": 85,
+    "TotalRank": 144,
+    "WinDiff": 21.84,
+    "DiffRank": 129
+  },
+  {
+    "#": 725,
+    "WinRate": 53.31,
+    "Total": 314,
+    "WinRank": 331,
+    "TotalRank": 638,
+    "WinDiff": 25.25,
+    "DiffRank": 88
+  },
+  {
+    "#": 726,
+    "WinRate": 76.4,
+    "Total": 405,
+    "WinRank": 153,
+    "TotalRank": 469,
+    "WinDiff": 31.02,
+    "DiffRank": 41
+  },
+  {
+    "#": 727,
+    "WinRate": 96.25,
+    "Total": 530,
+    "WinRank": 8,
+    "TotalRank": 149,
+    "WinDiff": 35.48,
+    "DiffRank": 23
+  },
+  {
+    "#": 728,
+    "WinRate": 30.84,
+    "Total": 237,
+    "WinRank": 538,
+    "TotalRank": 774,
+    "WinDiff": 10.46,
+    "DiffRank": 263
+  },
+  {
+    "#": 729,
+    "WinRate": 56.43,
+    "Total": 423,
+    "WinRank": 309,
+    "TotalRank": 440,
+    "WinDiff": 8.83,
+    "DiffRank": 288
+  },
+  {
+    "#": 730,
+    "WinRate": 43.07,
+    "Total": 278,
+    "WinRank": 414,
+    "TotalRank": 735,
+    "WinDiff": 17.29,
+    "DiffRank": 180
+  },
+  {
+    "#": 731,
+    "WinRate": 66.04,
+    "Total": 382,
+    "WinRank": 221,
+    "TotalRank": 521,
+    "WinDiff": 24.6,
+    "DiffRank": 96
+  },
+  {
+    "#": 732,
+    "WinRate": 93.01,
+    "Total": 499,
+    "WinRank": 19,
+    "TotalRank": 250,
+    "WinDiff": 37.72,
+    "DiffRank": 10
+  },
+  {
+    "#": 733,
+    "WinRate": 10.11,
+    "Total": 200,
+    "WinRank": 745,
+    "TotalRank": 793,
+    "WinDiff": 3.08,
+    "DiffRank": 365
+  },
+  {
+    "#": 734,
+    "WinRate": 4.49,
+    "Total": 213,
+    "WinRank": 781,
+    "TotalRank": 784,
+    "WinDiff": -6.5,
+    "DiffRank": 493
+  },
+  {
+    "#": 735,
+    "WinRate": 69.79,
+    "Total": 411,
+    "WinRank": 191,
+    "TotalRank": 457,
+    "WinDiff": 23.59,
+    "DiffRank": 106
+  },
+  {
+    "#": 736,
+    "WinRate": 48.69,
+    "Total": 369,
+    "WinRank": 373,
+    "TotalRank": 533,
+    "WinDiff": 9.97,
+    "DiffRank": 273
+  },
+  {
+    "#": 737,
+    "WinRate": 80.65,
+    "Total": 507,
+    "WinRank": 110,
+    "TotalRank": 217,
+    "WinDiff": 24.09,
+    "DiffRank": 100
+  },
+  {
+    "#": 738,
+    "WinRate": 18.48,
+    "Total": 303,
+    "WinRank": 670,
+    "TotalRank": 678,
+    "WinDiff": -8.49,
+    "DiffRank": 523
+  },
+  {
+    "#": 739,
+    "WinRate": 30.71,
+    "Total": 371,
+    "WinRank": 539,
+    "TotalRank": 528,
+    "WinDiff": -8.45,
+    "DiffRank": 522
+  },
+  {
+    "#": 740,
+    "WinRate": 58.05,
+    "Total": 552,
+    "WinRank": 293,
+    "TotalRank": 122,
+    "WinDiff": -7.07,
+    "DiffRank": 500
+  },
+  {
+    "#": 741,
+    "WinRate": 32.96,
+    "Total": 350,
+    "WinRank": 511,
+    "TotalRank": 556,
+    "WinDiff": -1.55,
+    "DiffRank": 433
+  },
+  {
+    "#": 742,
+    "WinRate": 51.81,
+    "Total": 531,
+    "WinRank": 346,
+    "TotalRank": 148,
+    "WinDiff": -9.16,
+    "DiffRank": 530
+  },
+  {
+    "#": 743,
+    "WinRate": 21.1,
+    "Total": 348,
+    "WinRank": 631,
+    "TotalRank": 564,
+    "WinDiff": -12.97,
+    "DiffRank": 591
+  },
+  {
+    "#": 744,
+    "WinRate": 43.32,
+    "Total": 495,
+    "WinRank": 411,
+    "TotalRank": 256,
+    "WinDiff": -11.38,
+    "DiffRank": 564
+  },
+  {
+    "#": 745,
+    "WinRate": 81.02,
+    "Total": 472,
+    "WinRank": 103,
+    "TotalRank": 349,
+    "WinDiff": 29.09,
+    "DiffRank": 56
+  },
+  {
+    "#": 746,
+    "WinRate": 46.82,
+    "Total": 355,
+    "WinRank": 386,
+    "TotalRank": 548,
+    "WinDiff": 11.21,
+    "DiffRank": 244
+  },
+  {
+    "#": 747,
+    "WinRate": 79.65,
+    "Total": 466,
+    "WinRank": 118,
+    "TotalRank": 361,
+    "WinDiff": 28.29,
+    "DiffRank": 66
+  },
+  {
+    "#": 748,
+    "WinRate": 79.65,
+    "Total": 466,
+    "WinRank": 118,
+    "TotalRank": 361,
+    "WinDiff": 28.29,
+    "DiffRank": 66
+  },
+  {
+    "#": 749,
+    "WinRate": 6.74,
+    "Total": 325,
+    "WinRank": 768,
+    "TotalRank": 610,
+    "WinDiff": -22.87,
+    "DiffRank": 701
+  },
+  {
+    "#": 750,
+    "WinRate": 10.74,
+    "Total": 448,
+    "WinRank": 742,
+    "TotalRank": 406,
+    "WinDiff": -39.09,
+    "DiffRank": 779
+  },
+  {
+    "#": 751,
+    "WinRate": 20.72,
+    "Total": 520,
+    "WinRank": 642,
+    "TotalRank": 181,
+    "WinDiff": -38.13,
+    "DiffRank": 775
+  },
+  {
+    "#": 752,
+    "WinRate": 18.85,
+    "Total": 520,
+    "WinRank": 667,
+    "TotalRank": 181,
+    "WinDiff": -40,
+    "DiffRank": 782
+  },
+  {
+    "#": 753,
+    "WinRate": 7.49,
+    "Total": 341,
+    "WinRank": 761,
+    "TotalRank": 570,
+    "WinDiff": -25.1,
+    "DiffRank": 719
+  },
+  {
+    "#": 754,
+    "WinRate": 10.24,
+    "Total": 462,
+    "WinRank": 743,
+    "TotalRank": 372,
+    "WinDiff": -40.76,
+    "DiffRank": 786
+  },
+  {
+    "#": 755,
+    "WinRate": 26.47,
+    "Total": 341,
+    "WinRank": 584,
+    "TotalRank": 570,
+    "WinDiff": -6.12,
+    "DiffRank": 486
+  },
+  {
+    "#": 756,
+    "WinRate": 57.68,
+    "Total": 480,
+    "WinRank": 298,
+    "TotalRank": 320,
+    "WinDiff": 4.89,
+    "DiffRank": 341
+  },
+  {
+    "#": 757,
+    "WinRate": 25.22,
+    "Total": 288,
+    "WinRank": 596,
+    "TotalRank": 720,
+    "WinDiff": -0.91,
+    "DiffRank": 421
+  },
+  {
+    "#": 758,
+    "WinRate": 59.3,
+    "Total": 482,
+    "WinRank": 282,
+    "TotalRank": 317,
+    "WinDiff": 6.28,
+    "DiffRank": 325
+  },
+  {
+    "#": 759,
+    "WinRate": 27.09,
+    "Total": 306,
+    "WinRank": 573,
+    "TotalRank": 663,
+    "WinDiff": -0.13,
+    "DiffRank": 410
+  },
+  {
+    "#": 760,
+    "WinRate": 52.43,
+    "Total": 500,
+    "WinRank": 341,
+    "TotalRank": 227,
+    "WinDiff": -3.01,
+    "DiffRank": 444
+  },
+  {
+    "#": 761,
+    "WinRate": 8.99,
+    "Total": 320,
+    "WinRank": 750,
+    "TotalRank": 620,
+    "WinDiff": -19.86,
+    "DiffRank": 657
+  },
+  {
+    "#": 762,
+    "WinRate": 21.1,
+    "Total": 494,
+    "WinRank": 631,
+    "TotalRank": 271,
+    "WinDiff": -33.46,
+    "DiffRank": 762
+  },
+  {
+    "#": 763,
+    "WinRate": 20.72,
+    "Total": 330,
+    "WinRank": 642,
+    "TotalRank": 591,
+    "WinDiff": -9.74,
+    "DiffRank": 539
+  },
+  {
+    "#": 764,
+    "WinRate": 38.45,
+    "Total": 500,
+    "WinRank": 464,
+    "TotalRank": 227,
+    "WinDiff": -16.99,
+    "DiffRank": 628
+  },
+  {
+    "#": 765,
+    "WinRate": 45.44,
+    "Total": 289,
+    "WinRank": 399,
+    "TotalRank": 719,
+    "WinDiff": 19.27,
+    "DiffRank": 155
+  },
+  {
+    "#": 766,
+    "WinRate": 78.9,
+    "Total": 481,
+    "WinRank": 127,
+    "TotalRank": 319,
+    "WinDiff": 26,
+    "DiffRank": 83
+  },
+  {
+    "#": 767,
+    "WinRate": 27.22,
+    "Total": 362,
+    "WinRank": 572,
+    "TotalRank": 539,
+    "WinDiff": -9.96,
+    "DiffRank": 544
+  },
+  {
+    "#": 768,
+    "WinRate": 58.43,
+    "Total": 521,
+    "WinRank": 291,
+    "TotalRank": 179,
+    "WinDiff": -0.61,
+    "DiffRank": 418
+  },
+  {
+    "#": 769,
+    "WinRate": 24.47,
+    "Total": 362,
+    "WinRank": 603,
+    "TotalRank": 539,
+    "WinDiff": -12.71,
+    "DiffRank": 584
+  },
+  {
+    "#": 770,
+    "WinRate": 39.08,
+    "Total": 521,
+    "WinRank": 451,
+    "TotalRank": 179,
+    "WinDiff": -19.96,
+    "DiffRank": 658
+  },
+  {
+    "#": 771,
+    "WinRate": 38.45,
+    "Total": 525,
+    "WinRank": 464,
+    "TotalRank": 162,
+    "WinDiff": -21.35,
+    "DiffRank": 678
+  },
+  {
+    "#": 772,
+    "WinRate": 91.14,
+    "Total": 500,
+    "WinRank": 35,
+    "TotalRank": 227,
+    "WinDiff": 35.7,
+    "DiffRank": 21
+  },
+  {
+    "#": 773,
+    "WinRate": 83.02,
+    "Total": 431,
+    "WinRank": 88,
+    "TotalRank": 423,
+    "WinDiff": 34.64,
+    "DiffRank": 28
+  },
+  {
+    "#": 774,
+    "WinRate": 26.97,
+    "Total": 500,
+    "WinRank": 577,
+    "TotalRank": 227,
+    "WinDiff": -28.47,
+    "DiffRank": 740
+  },
+  {
+    "#": 775,
+    "WinRate": 16.35,
+    "Total": 300,
+    "WinRank": 681,
+    "TotalRank": 682,
+    "WinDiff": -10.4,
+    "DiffRank": 549
+  },
+  {
+    "#": 776,
+    "WinRate": 38.83,
+    "Total": 452,
+    "WinRank": 455,
+    "TotalRank": 397,
+    "WinDiff": -11.33,
+    "DiffRank": 562
+  },
+  {
+    "#": 777,
+    "WinRate": 59.8,
+    "Total": 600,
+    "WinRank": 278,
+    "TotalRank": 49,
+    "WinDiff": -12.6,
+    "DiffRank": 582
+  },
+  {
+    "#": 778,
+    "WinRate": 59.93,
+    "Total": 470,
+    "WinRank": 275,
+    "TotalRank": 352,
+    "WinDiff": 8.19,
+    "DiffRank": 301
+  },
+  {
+    "#": 779,
+    "WinRate": 18.35,
+    "Total": 309,
+    "WinRank": 671,
+    "TotalRank": 654,
+    "WinDiff": -9.16,
+    "DiffRank": 530
+  },
+  {
+    "#": 780,
+    "WinRate": 36.7,
+    "Total": 474,
+    "WinRank": 483,
+    "TotalRank": 344,
+    "WinDiff": -15.44,
+    "DiffRank": 621
+  },
+  {
+    "#": 781,
+    "WinRate": 32.33,
+    "Total": 335,
+    "WinRank": 525,
+    "TotalRank": 581,
+    "WinDiff": 0.94,
+    "DiffRank": 395
+  },
+  {
+    "#": 782,
+    "WinRate": 36.2,
+    "Total": 335,
+    "WinRank": 487,
+    "TotalRank": 581,
+    "WinDiff": 4.81,
+    "DiffRank": 342
+  },
+  {
+    "#": 783,
+    "WinRate": 26.59,
+    "Total": 335,
+    "WinRank": 581,
+    "TotalRank": 581,
+    "WinDiff": -4.8,
+    "DiffRank": 463
+  },
+  {
+    "#": 784,
+    "WinRate": 22.1,
+    "Total": 335,
+    "WinRank": 620,
+    "TotalRank": 581,
+    "WinDiff": -9.29,
+    "DiffRank": 535
+  },
+  {
+    "#": 785,
+    "WinRate": 62.3,
+    "Total": 494,
+    "WinRank": 246,
+    "TotalRank": 271,
+    "WinDiff": 7.74,
+    "DiffRank": 308
+  },
+  {
+    "#": 786,
+    "WinRate": 73.66,
+    "Total": 494,
+    "WinRank": 168,
+    "TotalRank": 271,
+    "WinDiff": 19.1,
+    "DiffRank": 157
+  },
+  {
+    "#": 787,
+    "WinRate": 49.56,
+    "Total": 494,
+    "WinRank": 365,
+    "TotalRank": 271,
+    "WinDiff": -5,
+    "DiffRank": 468
+  },
+  {
+    "#": 788,
+    "WinRate": 33.96,
+    "Total": 494,
+    "WinRank": 500,
+    "TotalRank": 271,
+    "WinDiff": -20.6,
+    "DiffRank": 666
+  },
+  {
+    "#": 789,
+    "WinRate": 7.74,
+    "Total": 304,
+    "WinRank": 758,
+    "TotalRank": 677,
+    "WinDiff": -19.31,
+    "DiffRank": 648
+  },
+  {
+    "#": 790,
+    "WinRate": 33.46,
+    "Total": 514,
+    "WinRank": 505,
+    "TotalRank": 204,
+    "WinDiff": -24.3,
+    "DiffRank": 710
+  },
+  {
+    "#": 791,
+    "WinRate": 32.33,
+    "Total": 245,
+    "WinRank": 525,
+    "TotalRank": 767,
+    "WinDiff": 9.87,
+    "DiffRank": 276
+  },
+  {
+    "#": 792,
+    "WinRate": 95.26,
+    "Total": 535,
+    "WinRank": 12,
+    "TotalRank": 135,
+    "WinDiff": 33.5,
+    "DiffRank": 33
+  },
+  {
+    "#": 793,
+    "WinRate": 80.77,
+    "Total": 680,
+    "WinRank": 109,
+    "TotalRank": 16,
+    "WinDiff": 3.5,
+    "DiffRank": 360
+  },
+  {
+    "#": 794,
+    "WinRate": 82.9,
+    "Total": 680,
+    "WinRank": 89,
+    "TotalRank": 16,
+    "WinDiff": 5.63,
+    "DiffRank": 332
+  },
+  {
+    "#": 795,
+    "WinRate": 74.16,
+    "Total": 600,
+    "WinRank": 165,
+    "TotalRank": 49,
+    "WinDiff": 1.76,
+    "DiffRank": 381
+  },
+  {
+    "#": 796,
+    "WinRate": 27.97,
+    "Total": 600,
+    "WinRank": 563,
+    "TotalRank": 49,
+    "WinDiff": -44.43,
+    "DiffRank": 793
+  },
+  {
+    "#": 797,
+    "WinRate": 91.89,
+    "Total": 700,
+    "WinRank": 28,
+    "TotalRank": 7,
+    "WinDiff": 13.09,
+    "DiffRank": 218
+  },
+  {
+    "#": 798,
+    "WinRate": 12.36,
+    "Total": 600,
+    "WinRank": 725,
+    "TotalRank": 49,
+    "WinDiff": -60.04,
+    "DiffRank": 802
+  },
+  {
+    "#": 799,
+    "WinRate": 60.05,
+    "Total": 680,
+    "WinRank": 273,
+    "TotalRank": 16,
+    "WinDiff": -17.22,
+    "DiffRank": 630
+  },
+  {
+    "#": 800,
+    "WinRate": 53.81,
+    "Total": 600,
+    "WinRank": 328,
+    "TotalRank": 49,
+    "WinDiff": -18.59,
+    "DiffRank": 643
+  },
+  {
+    "#": 801,
+    "WinRate": 52.31,
+    "Total": 505,
+    "WinRank": 344,
+    "TotalRank": 218,
+    "WinDiff": -3.92,
+    "DiffRank": 450
+  },
+  {
+    "#": 802,
+    "WinRate": 28.59,
+    "Total": 505,
+    "WinRank": 557,
+    "TotalRank": 218,
+    "WinDiff": -27.64,
+    "DiffRank": 735
+  }
+]

@@ -1,7 +1,9 @@
 import objectPath from 'object-path';
 import $ from "jquery";
+// import pkmonData from '../resources/json/gen/pkmon_list_v2.json';
 import pkmonData from '../resources/json/gen/pokemon.json';
-import pkmonWinRate from '../resources/json/gen/win_rate.json';
+import pkmonWinRate from '../resources/json/gen/win_rate_v2.json';
+// import pkmonWinRate from '../resources/json/gen/win_rate.json';
 import attributeWinRate from '../resources/json/gen/attribute_win_rate.json';
 
 export async function onchange ( value, dataPath ) {

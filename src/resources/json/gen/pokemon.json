@@ -11198,5 +11198,33 @@
         "Speed": "70",
         "Generation": "6",
         "Legendary": "True"
-    }
+    },
+    "801": {
+        "#": "801",
+        "Name": "Amon",
+        "Type 1": "Fire",
+        "Type 2": "",
+        "HP": "80",
+        "Attack": "120",
+        "Defense": "70",
+        "Sp. Atk": "110",
+        "Sp. Def": "55",
+        "Speed": "70",
+        "Generation": "6",
+        "Legendary": "FALSE"
+      },
+      "802": {
+        "#": "802",
+        "Name": "Bmon",
+        "Type 1": "Water",
+        "Type 2": "",
+        "HP": "75",
+        "Attack": "80",
+        "Defense": "100",
+        "Sp. Atk": "90",
+        "Sp. Def": "110",
+        "Speed": "50",
+        "Generation": "6",
+        "Legendary": "FALSE"
+      }
 }
