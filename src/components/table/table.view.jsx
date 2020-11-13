@@ -22,7 +22,7 @@ export default props => {
         {
             title: 'Pokemon',
             dataIndex: '#',
-            // render: (item) => <img style={{width: "40px", padding: "5px 0"}} src={`/images/${item}.png`}/>,
+            render: (item) => <img style={{width: "40px", padding: "5px 0"}} src={`/images/${item}.png`}/>,
             width: '40%',
             align: 'center'
         },

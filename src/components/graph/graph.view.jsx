@@ -4,8 +4,8 @@ import './graph.css';
 import Scatter from '../chart/scatter/scatter';
 
 export default props => {
-    console.log("------------------------");
-    console.log(props);
+    // console.log("------------------------");
+    // console.log(props);
     return (
         <div className="graph">
             <div className="graph-title">
