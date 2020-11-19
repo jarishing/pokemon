@@ -15,7 +15,10 @@ export default props => {
                 props.pkmon?
                 <div>
                     <div className="info-image">
-                        <img src={`/images/${props.pkmon["#"]}.png`}></img>
+                        {/* <div className="info-winner-v2">
+                            <GiWingedSword/> <div style={{marginLeft:'10px', fontSize:'21px', marginTop: '5px'}}>WINNER</div>
+                        </div> */}
+                        {/* <img src={`/images/${props.pkmon["#"]}.png`}></img> */}
                     </div>
                     <div className={props.p2? "info-status-p2":"info-status"}>
                         <div>
@@ -86,8 +89,11 @@ export default props => {
                     /> */}
                     {
                         props.winner &&
-                        <div className={props.p2? "info-winner-p2":"info-winner"}>
-                            <GiWingedSword/> <div style={{marginLeft:'10px', fontSize:'18px'}}>WINNER</div>
+                        // <div className={props.p2? "info-winner-p2":"info-winner"}>
+                        //     <GiWingedSword/> <div style={{marginLeft:'10px', fontSize:'18px'}}>WINNER</div>
+                        // </div>
+                        <div className={props.p2? "info-winner-v3-p2":"info-winner-v3"}>
+                            <GiWingedSword/> <div style={{ position: 'relative', fontSize:'30px', bottom: '30px'}}>WINNER</div>
                         </div>
                     }
                 </div>:null

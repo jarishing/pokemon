@@ -11201,7 +11201,7 @@
     },
     "801": {
         "#": "801",
-        "Name": "Amon",
+        "Name": "Firemon",
         "Type 1": "Fire",
         "Type 2": "",
         "HP": "80",
@@ -11215,7 +11215,7 @@
       },
       "802": {
         "#": "802",
-        "Name": "Bmon",
+        "Name": "Watermon",
         "Type 1": "Water",
         "Type 2": "",
         "HP": "75",

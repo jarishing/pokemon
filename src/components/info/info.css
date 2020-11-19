@@ -15,9 +15,15 @@
     height: 400px;
 }
 
+.info-image{
+    height: 160px;
+}
+
 .info-image > img{
     width: 160px;
-    padding: 20px
+    padding: 20px;
+    /* position: relative;
+    bottom: 50px; */
 }
 
 .info-img-empty{
@@ -82,6 +88,34 @@
     justify-content: center;
     color:#CC0000;
     font-weight: 700;
+}
+
+.info-winner-v3{
+    margin: 0 auto;
+    padding: 0;
+    color: #1D91D0;
+    font-weight: 700;
+    font-size: 85px;
+}
+
+.info-winner-v3-p2{
+    margin: 0 auto;
+    padding: 0;
+    color: #CC0000;
+    font-weight: 700;
+    font-size: 85px;
+}
+
+.info-winner-v2-p2{
+    font-size: 60px;
+    width: 270px;
+    display: flex;
+    justify-content: center;
+    color: #CC0000;
+    font-weight: 700;
+    position: relative;
+    right: -60px;
+    transform: rotate(20deg);
 }
 
 .info-data{
